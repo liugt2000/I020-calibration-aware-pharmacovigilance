@@ -1,0 +1,7 @@
+﻿label,drug,outcome_key,a,ror,ror_lo,ror_hi,prr,chi2,ic,ic025,naive_four_alg,cal_ror_ml_N1,cal_lo_ml_N1,cal_lo_sd_N1,q_ml_N1,cal_lo_ml_N2,q_ml_N2,robust_double_fit,bracket_stable
+IDX::P1_osimertinib_ILD,osimertinib,P1_osimertinib_ILD,1091,7.169,6.747,7.617,6.966,5540.024,2.783,2.695,True,16.531,10.828,5.343,0.0,0.251,0.382,True,False
+IDX::P2_osimertinib_QT,osimertinib,P2_osimertinib_QT,227,3.796,3.33,4.327,3.777,461.538,1.902,1.713,True,8.753,5.645,2.814,0.0,0.133,0.579,True,False
+IDX::P3_tepotinib_AKI,tepotinib,P3_tepotinib_AKI,84,8.68,6.909,10.905,7.747,501.312,2.897,2.568,True,,,,1.0,1.37,0.022,False,False
+IDX::P4_lazertinib_ILD,lazertinib,P4_lazertinib_ILD,40,12.797,9.317,17.578,12.252,414.694,3.427,2.971,True,22.501,16.382,7.706,0.0,6.523,0.0,True,True
+IDX::P5_amivantamab_IRR,amivantamab,P5_amivantamab_IRR,778,80.834,74.693,87.48,64.735,48399.759,5.943,5.829,True,150.217,116.494,49.071,0.0,48.91,0.0,True,True
+IDX::P5b_amivantamab_ILD,amivantamab,P5b_amivantamab_ILD,111,7.825,6.478,9.452,7.629,640.848,2.887,2.616,True,14.541,10.7,4.687,0.0,4.611,0.0,True,True

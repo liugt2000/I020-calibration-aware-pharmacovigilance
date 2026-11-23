@@ -1,0 +1,178 @@
+{
+  "S1_union_union": [
+    {
+      "pair": "osimertinib_ILD",
+      "group": "attenuated",
+      "d": 0.75,
+      "z": -0.08547198450612763,
+      "p": 0.6566
+    },
+    {
+      "pair": "osimertinib_QT",
+      "group": "robust",
+      "d": 0.5,
+      "z": -0.966634922149582,
+      "p": 0.3269
+    },
+    {
+      "pair": "tepotinib_AKI",
+      "group": "robust",
+      "d": 0.14285714285714285,
+      "z": -2.543146969064818,
+      "p": 0.0198
+    },
+    {
+      "pair": "lazertinib_ILD",
+      "group": "attenuated",
+      "d": 0.5,
+      "z": -0.8871458370143738,
+      "p": 0.4246
+    },
+    {
+      "pair": "amivantamab_IRR",
+      "group": "robust",
+      "d": 1.0,
+      "z": 0.7993461470321319,
+      "p": 1.0
+    },
+    {
+      "pair": "amivantamab_ILD",
+      "group": "attenuated",
+      "d": 0.5,
+      "z": -0.8884145577637138,
+      "p": 0.4062
+    }
+  ],
+  "S2_primary_union": [
+    {
+      "pair": "osimertinib_ILD",
+      "group": "attenuated",
+      "d": 0.0,
+      "z": -1.7692403805485475,
+      "p": 0.2421
+    },
+    {
+      "pair": "osimertinib_QT",
+      "group": "robust",
+      "d": 0.0,
+      "z": -1.9764565938367846,
+      "p": 0.2038
+    },
+    {
+      "pair": "tepotinib_AKI",
+      "group": "robust",
+      "d": 1.0,
+      "z": 0.6674278467488339,
+      "p": 1.0
+    },
+    {
+      "pair": "lazertinib_ILD",
+      "group": "attenuated",
+      "d": 0.0,
+      "z": -1.7838251724656786,
+      "p": 0.2391
+    },
+    {
+      "pair": "amivantamab_IRR",
+      "group": "robust",
+      "d": 1.0,
+      "z": 0.791516768914478,
+      "p": 1.0
+    },
+    {
+      "pair": "amivantamab_ILD",
+      "group": "attenuated",
+      "d": 0.5,
+      "z": -0.9138867327973379,
+      "p": 0.4115
+    }
+  ],
+  "S3_union_clean": [
+    {
+      "pair": "osimertinib_ILD",
+      "group": "attenuated",
+      "d": 1.25,
+      "z": 1.326921578481344,
+      "p": 0.9881
+    },
+    {
+      "pair": "osimertinib_QT",
+      "group": "robust",
+      "d": 1.5,
+      "z": 2.1839739158757467,
+      "p": 0.9996
+    },
+    {
+      "pair": "tepotinib_AKI",
+      "group": "robust",
+      "d": 1.1428571428571428,
+      "z": 0.6174831601454983,
+      "p": 0.8908
+    },
+    {
+      "pair": "lazertinib_ILD",
+      "group": "attenuated",
+      "d": 1.0,
+      "z": 0.3772437064412576,
+      "p": 0.9996
+    },
+    {
+      "pair": "amivantamab_IRR",
+      "group": "robust",
+      "d": 1.5,
+      "z": 1.4270929774958854,
+      "p": 0.9979
+    },
+    {
+      "pair": "amivantamab_ILD",
+      "group": "attenuated",
+      "d": 1.0,
+      "z": 0.061370336179509204,
+      "p": 0.92
+    }
+  ],
+  "S4_primary_clean": [
+    {
+      "pair": "osimertinib_ILD",
+      "group": "attenuated",
+      "d": 1.0,
+      "z": 0.26903312133515295,
+      "p": 1.0
+    },
+    {
+      "pair": "osimertinib_QT",
+      "group": "robust",
+      "d": 2.0,
+      "z": 40.81053907999746,
+      "p": 1.0
+    },
+    {
+      "pair": "tepotinib_AKI",
+      "group": "robust",
+      "d": 2.0,
+      "z": 1.316931420960999,
+      "p": 1.0
+    },
+    {
+      "pair": "lazertinib_ILD",
+      "group": "attenuated",
+      "d": 1.0,
+      "z": 0.2643009678468715,
+      "p": 1.0
+    },
+    {
+      "pair": "amivantamab_IRR",
+      "group": "robust",
+      "d": 1.5,
+      "z": 1.4041173813713521,
+      "p": 0.9984
+    },
+    {
+      "pair": "amivantamab_ILD",
+      "group": "attenuated",
+      "d": 1.0,
+      "z": 0.058276178226596566,
+      "p": 0.9194
+    }
+  ]
+}

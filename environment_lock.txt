@@ -1,0 +1,18 @@
+# Environment lock - analysis performed 2026-11-21
+python==3.13.14
+pandas==2.3.3
+numpy==2.5.4
+scipy==1.18.1
+networkx==3.7
+matplotlib==3.11.2
+requests==2.34.2
+
+# External data versions
+openFDA drug/event API   snapshot 2026-11-21, 21,054,159 reports
+ChEMBL                   ChEMBL_37 (2026-05-01)
+Open Targets Platform    v26.9.0, data release 2026-09
+STRING                   v12.5 (combined score 0.4 primary / 0.7 sensitivity)
+
+# Fixed seeds
+simulation_seed=20261121
+network_permutation_seed=20261121

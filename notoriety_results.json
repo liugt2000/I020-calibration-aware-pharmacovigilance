@@ -1,0 +1,1508 @@
+{
+  "meta": {
+    "generated": "2026-11-21 14:43:32",
+    "method": "quarterly index-vs-control reporting fraction; max change-point",
+    "anchors": {
+      "osimertinib": "2018Q2",
+      "tepotinib": "2021Q2",
+      "lazertinib": null,
+      "amivantamab": "2021Q2"
+    },
+    "min_drug_reports_per_quarter": 20
+  },
+  "series": {
+    "osimertinib_ILD": {
+      "anchor": "2018Q2",
+      "rows": [
+        {
+          "quarter": "2015Q4",
+          "drug_total": 33,
+          "idx_n": 2,
+          "ctrl_n": 1,
+          "idx_frac": 0.06060606060606061,
+          "ctrl_frac": 0.030303030303030304,
+          "diff_frac": 0.030303030303030304
+        },
+        {
+          "quarter": "2016Q1",
+          "drug_total": 101,
+          "idx_n": 6,
+          "ctrl_n": 0,
+          "idx_frac": 0.0594059405940594,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.0594059405940594
+        },
+        {
+          "quarter": "2016Q2",
+          "drug_total": 164,
+          "idx_n": 13,
+          "ctrl_n": 1,
+          "idx_frac": 0.07926829268292683,
+          "ctrl_frac": 0.006097560975609756,
+          "diff_frac": 0.07317073170731707
+        },
+        {
+          "quarter": "2016Q3",
+          "drug_total": 200,
+          "idx_n": 25,
+          "ctrl_n": 0,
+          "idx_frac": 0.125,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.125
+        },
+        {
+          "quarter": "2016Q4",
+          "drug_total": 220,
+          "idx_n": 25,
+          "ctrl_n": 2,
+          "idx_frac": 0.11363636363636363,
+          "ctrl_frac": 0.00909090909090909,
+          "diff_frac": 0.10454545454545454
+        },
+        {
+          "quarter": "2017Q1",
+          "drug_total": 223,
+          "idx_n": 12,
+          "ctrl_n": 0,
+          "idx_frac": 0.053811659192825115,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.053811659192825115
+        },
+        {
+          "quarter": "2017Q2",
+          "drug_total": 280,
+          "idx_n": 20,
+          "ctrl_n": 1,
+          "idx_frac": 0.07142857142857142,
+          "ctrl_frac": 0.0035714285714285713,
+          "diff_frac": 0.06785714285714285
+        },
+        {
+          "quarter": "2017Q3",
+          "drug_total": 291,
+          "idx_n": 15,
+          "ctrl_n": 5,
+          "idx_frac": 0.05154639175257732,
+          "ctrl_frac": 0.01718213058419244,
+          "diff_frac": 0.03436426116838488
+        },
+        {
+          "quarter": "2017Q4",
+          "drug_total": 276,
+          "idx_n": 15,
+          "ctrl_n": 1,
+          "idx_frac": 0.05434782608695652,
+          "ctrl_frac": 0.0036231884057971015,
+          "diff_frac": 0.050724637681159424
+        },
+        {
+          "quarter": "2018Q1",
+          "drug_total": 304,
+          "idx_n": 24,
+          "ctrl_n": 1,
+          "idx_frac": 0.07894736842105263,
+          "ctrl_frac": 0.003289473684210526,
+          "diff_frac": 0.0756578947368421
+        },
+        {
+          "quarter": "2018Q2",
+          "drug_total": 335,
+          "idx_n": 18,
+          "ctrl_n": 4,
+          "idx_frac": 0.05373134328358209,
+          "ctrl_frac": 0.011940298507462687,
+          "diff_frac": 0.041791044776119404
+        },
+        {
+          "quarter": "2018Q3",
+          "drug_total": 302,
+          "idx_n": 24,
+          "ctrl_n": 2,
+          "idx_frac": 0.07947019867549669,
+          "ctrl_frac": 0.006622516556291391,
+          "diff_frac": 0.0728476821192053
+        },
+        {
+          "quarter": "2018Q4",
+          "drug_total": 483,
+          "idx_n": 38,
+          "ctrl_n": 3,
+          "idx_frac": 0.07867494824016563,
+          "ctrl_frac": 0.006211180124223602,
+          "diff_frac": 0.07246376811594203
+        },
+        {
+          "quarter": "2019Q1",
+          "drug_total": 462,
+          "idx_n": 56,
+          "ctrl_n": 2,
+          "idx_frac": 0.12121212121212122,
+          "ctrl_frac": 0.004329004329004329,
+          "diff_frac": 0.11688311688311688
+        },
+        {
+          "quarter": "2019Q2",
+          "drug_total": 467,
+          "idx_n": 44,
+          "ctrl_n": 1,
+          "idx_frac": 0.09421841541755889,
+          "ctrl_frac": 0.0021413276231263384,
+          "diff_frac": 0.09207708779443255
+        },
+        {
+          "quarter": "2019Q3",
+          "drug_total": 448,
+          "idx_n": 46,
+          "ctrl_n": 1,
+          "idx_frac": 0.10267857142857142,
+          "ctrl_frac": 0.002232142857142857,
+          "diff_frac": 0.10044642857142858
+        },
+        {
+          "quarter": "2019Q4",
+          "drug_total": 875,
+          "idx_n": 39,
+          "ctrl_n": 2,
+          "idx_frac": 0.044571428571428574,
+          "ctrl_frac": 0.002285714285714286,
+          "diff_frac": 0.04228571428571429
+        },
+        {
+          "quarter": "2020Q1",
+          "drug_total": 833,
+          "idx_n": 36,
+          "ctrl_n": 5,
+          "idx_frac": 0.04321728691476591,
+          "ctrl_frac": 0.006002400960384154,
+          "diff_frac": 0.03721488595438175
+        },
+        {
+          "quarter": "2020Q2",
+          "drug_total": 781,
+          "idx_n": 19,
+          "ctrl_n": 1,
+          "idx_frac": 0.024327784891165175,
+          "ctrl_frac": 0.0012804097311139564,
+          "diff_frac": 0.023047375160051217
+        },
+        {
+          "quarter": "2020Q3",
+          "drug_total": 855,
+          "idx_n": 42,
+          "ctrl_n": 2,
+          "idx_frac": 0.04912280701754386,
+          "ctrl_frac": 0.0023391812865497076,
+          "diff_frac": 0.04678362573099415
+        },
+        {
+          "quarter": "2020Q4",
+          "drug_total": 894,
+          "idx_n": 26,
+          "ctrl_n": 3,
+          "idx_frac": 0.029082774049217,
+          "ctrl_frac": 0.003355704697986577,
+          "diff_frac": 0.025727069351230425
+        },
+        {
+          "quarter": "2021Q1",
+          "drug_total": 892,
+          "idx_n": 34,
+          "ctrl_n": 0,
+          "idx_frac": 0.03811659192825112,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.03811659192825112
+        },
+        {
+          "quarter": "2021Q2",
+          "drug_total": 790,
+          "idx_n": 19,
+          "ctrl_n": 1,
+          "idx_frac": 0.024050632911392405,
+          "ctrl_frac": 0.0012658227848101266,
+          "diff_frac": 0.02278481012658228
+        },
+        {
+          "quarter": "2021Q3",
+          "drug_total": 909,
+          "idx_n": 31,
+          "ctrl_n": 4,
+          "idx_frac": 0.034103410341034104,
+          "ctrl_frac": 0.0044004400440044,
+          "diff_frac": 0.0297029702970297
+        },
+        {
+          "quarter": "2021Q4",
+          "drug_total": 864,
+          "idx_n": 17,
+          "ctrl_n": 0,
+          "idx_frac": 0.019675925925925927,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.019675925925925927
+        },
+        {
+          "quarter": "2022Q1",
+          "drug_total": 757,
+          "idx_n": 19,
+          "ctrl_n": 1,
+          "idx_frac": 0.02509907529722589,
+          "ctrl_frac": 0.001321003963011889,
+          "diff_frac": 0.023778071334214
+        },
+        {
+          "quarter": "2022Q2",
+          "drug_total": 816,
+          "idx_n": 12,
+          "ctrl_n": 1,
+          "idx_frac": 0.014705882352941176,
+          "ctrl_frac": 0.0012254901960784314,
+          "diff_frac": 0.013480392156862746
+        },
+        {
+          "quarter": "2022Q3",
+          "drug_total": 878,
+          "idx_n": 15,
+          "ctrl_n": 3,
+          "idx_frac": 0.017084282460136675,
+          "ctrl_frac": 0.003416856492027335,
+          "diff_frac": 0.01366742596810934
+        },
+        {
+          "quarter": "2022Q4",
+          "drug_total": 972,
+          "idx_n": 20,
+          "ctrl_n": 5,
+          "idx_frac": 0.0205761316872428,
+          "ctrl_frac": 0.0051440329218107,
+          "diff_frac": 0.015432098765432098
+        },
+        {
+          "quarter": "2023Q1",
+          "drug_total": 991,
+          "idx_n": 13,
+          "ctrl_n": 1,
+          "idx_frac": 0.013118062563067608,
+          "ctrl_frac": 0.0010090817356205853,
+          "diff_frac": 0.012108980827447022
+        },
+        {
+          "quarter": "2023Q2",
+          "drug_total": 1072,
+          "idx_n": 17,
+          "ctrl_n": 7,
+          "idx_frac": 0.01585820895522388,
+          "ctrl_frac": 0.0065298507462686565,
+          "diff_frac": 0.009328358208955223
+        },
+        {
+          "quarter": "2023Q3",
+          "drug_total": 1097,
+          "idx_n": 20,
+          "ctrl_n": 2,
+          "idx_frac": 0.018231540565177756,
+          "ctrl_frac": 0.0018231540565177757,
+          "diff_frac": 0.016408386508659983
+        },
+        {
+          "quarter": "2023Q4",
+          "drug_total": 1190,
+          "idx_n": 23,
+          "ctrl_n": 6,
+          "idx_frac": 0.019327731092436976,
+          "ctrl_frac": 0.005042016806722689,
+          "diff_frac": 0.014285714285714285
+        },
+        {
+          "quarter": "2024Q1",
+          "drug_total": 1055,
+          "idx_n": 25,
+          "ctrl_n": 9,
+          "idx_frac": 0.023696682464454975,
+          "ctrl_frac": 0.008530805687203791,
+          "diff_frac": 0.015165876777251185
+        },
+        {
+          "quarter": "2024Q2",
+          "drug_total": 968,
+          "idx_n": 33,
+          "ctrl_n": 6,
+          "idx_frac": 0.03409090909090909,
+          "ctrl_frac": 0.006198347107438017,
+          "diff_frac": 0.027892561983471075
+        },
+        {
+          "quarter": "2024Q3",
+          "drug_total": 1610,
+          "idx_n": 20,
+          "ctrl_n": 19,
+          "idx_frac": 0.012422360248447204,
+          "ctrl_frac": 0.011801242236024845,
+          "diff_frac": 0.0006211180124223603
+        },
+        {
+          "quarter": "2024Q4",
+          "drug_total": 1355,
+          "idx_n": 29,
+          "ctrl_n": 10,
+          "idx_frac": 0.021402214022140223,
+          "ctrl_frac": 0.007380073800738007,
+          "diff_frac": 0.014022140221402213
+        },
+        {
+          "quarter": "2025Q1",
+          "drug_total": 1048,
+          "idx_n": 17,
+          "ctrl_n": 17,
+          "idx_frac": 0.016221374045801526,
+          "ctrl_frac": 0.016221374045801526,
+          "diff_frac": 0.0
+        },
+        {
+          "quarter": "2025Q2",
+          "drug_total": 1077,
+          "idx_n": 26,
+          "ctrl_n": 10,
+          "idx_frac": 0.02414113277623027,
+          "ctrl_frac": 0.009285051067780872,
+          "diff_frac": 0.014856081708449397
+        },
+        {
+          "quarter": "2025Q3",
+          "drug_total": 1015,
+          "idx_n": 15,
+          "ctrl_n": 10,
+          "idx_frac": 0.014778325123152709,
+          "ctrl_frac": 0.009852216748768473,
+          "diff_frac": 0.0049261083743842365
+        },
+        {
+          "quarter": "2025Q4",
+          "drug_total": 1064,
+          "idx_n": 23,
+          "ctrl_n": 9,
+          "idx_frac": 0.021616541353383457,
+          "ctrl_frac": 0.008458646616541353,
+          "diff_frac": 0.013157894736842105
+        },
+        {
+          "quarter": "2026Q1",
+          "drug_total": 1259,
+          "idx_n": 47,
+          "ctrl_n": 15,
+          "idx_frac": 0.03733121525019857,
+          "ctrl_frac": 0.011914217633042097,
+          "diff_frac": 0.025416997617156472
+        },
+        {
+          "quarter": "2026Q2",
+          "drug_total": 1385,
+          "idx_n": 33,
+          "ctrl_n": 13,
+          "idx_frac": 0.023826714801444042,
+          "ctrl_frac": 0.009386281588447653,
+          "diff_frac": 0.01444043321299639
+        },
+        {
+          "quarter": "2026Q3",
+          "drug_total": 1253,
+          "idx_n": 38,
+          "ctrl_n": 8,
+          "idx_frac": 0.030327214684756583,
+          "ctrl_frac": 0.006384676775738229,
+          "diff_frac": 0.023942537909018357
+        }
+      ]
+    },
+    "osimertinib_QT": {
+      "anchor": "2018Q2",
+      "rows": [
+        {
+          "quarter": "2015Q4",
+          "drug_total": 33,
+          "idx_n": 0,
+          "ctrl_n": 1,
+          "idx_frac": 0.0,
+          "ctrl_frac": 0.030303030303030304,
+          "diff_frac": -0.030303030303030304
+        },
+        {
+          "quarter": "2016Q1",
+          "drug_total": 101,
+          "idx_n": 1,
+          "ctrl_n": 0,
+          "idx_frac": 0.009900990099009901,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.009900990099009901
+        },
+        {
+          "quarter": "2016Q2",
+          "drug_total": 164,
+          "idx_n": 0,
+          "ctrl_n": 1,
+          "idx_frac": 0.0,
+          "ctrl_frac": 0.006097560975609756,
+          "diff_frac": -0.006097560975609756
+        },
+        {
+          "quarter": "2016Q3",
+          "drug_total": 200,
+          "idx_n": 3,
+          "ctrl_n": 0,
+          "idx_frac": 0.015,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.015
+        },
+        {
+          "quarter": "2016Q4",
+          "drug_total": 220,
+          "idx_n": 1,
+          "ctrl_n": 2,
+          "idx_frac": 0.004545454545454545,
+          "ctrl_frac": 0.00909090909090909,
+          "diff_frac": -0.004545454545454545
+        },
+        {
+          "quarter": "2017Q1",
+          "drug_total": 223,
+          "idx_n": 0,
+          "ctrl_n": 0,
+          "idx_frac": 0.0,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.0
+        },
+        {
+          "quarter": "2017Q2",
+          "drug_total": 280,
+          "idx_n": 6,
+          "ctrl_n": 1,
+          "idx_frac": 0.02142857142857143,
+          "ctrl_frac": 0.0035714285714285713,
+          "diff_frac": 0.017857142857142856
+        },
+        {
+          "quarter": "2017Q3",
+          "drug_total": 291,
+          "idx_n": 4,
+          "ctrl_n": 5,
+          "idx_frac": 0.013745704467353952,
+          "ctrl_frac": 0.01718213058419244,
+          "diff_frac": -0.003436426116838488
+        },
+        {
+          "quarter": "2017Q4",
+          "drug_total": 276,
+          "idx_n": 6,
+          "ctrl_n": 1,
+          "idx_frac": 0.021739130434782608,
+          "ctrl_frac": 0.0036231884057971015,
+          "diff_frac": 0.018115942028985508
+        },
+        {
+          "quarter": "2018Q1",
+          "drug_total": 304,
+          "idx_n": 8,
+          "ctrl_n": 1,
+          "idx_frac": 0.02631578947368421,
+          "ctrl_frac": 0.003289473684210526,
+          "diff_frac": 0.023026315789473683
+        },
+        {
+          "quarter": "2018Q2",
+          "drug_total": 335,
+          "idx_n": 7,
+          "ctrl_n": 4,
+          "idx_frac": 0.020895522388059702,
+          "ctrl_frac": 0.011940298507462687,
+          "diff_frac": 0.008955223880597015
+        },
+        {
+          "quarter": "2018Q3",
+          "drug_total": 302,
+          "idx_n": 2,
+          "ctrl_n": 2,
+          "idx_frac": 0.006622516556291391,
+          "ctrl_frac": 0.006622516556291391,
+          "diff_frac": 0.0
+        },
+        {
+          "quarter": "2018Q4",
+          "drug_total": 483,
+          "idx_n": 7,
+          "ctrl_n": 3,
+          "idx_frac": 0.014492753623188406,
+          "ctrl_frac": 0.006211180124223602,
+          "diff_frac": 0.008281573498964804
+        },
+        {
+          "quarter": "2019Q1",
+          "drug_total": 462,
+          "idx_n": 6,
+          "ctrl_n": 2,
+          "idx_frac": 0.012987012987012988,
+          "ctrl_frac": 0.004329004329004329,
+          "diff_frac": 0.008658008658008658
+        },
+        {
+          "quarter": "2019Q2",
+          "drug_total": 467,
+          "idx_n": 8,
+          "ctrl_n": 1,
+          "idx_frac": 0.017130620985010708,
+          "ctrl_frac": 0.0021413276231263384,
+          "diff_frac": 0.014989293361884369
+        },
+        {
+          "quarter": "2019Q3",
+          "drug_total": 448,
+          "idx_n": 4,
+          "ctrl_n": 1,
+          "idx_frac": 0.008928571428571428,
+          "ctrl_frac": 0.002232142857142857,
+          "diff_frac": 0.006696428571428571
+        },
+        {
+          "quarter": "2019Q4",
+          "drug_total": 875,
+          "idx_n": 13,
+          "ctrl_n": 2,
+          "idx_frac": 0.014857142857142857,
+          "ctrl_frac": 0.002285714285714286,
+          "diff_frac": 0.012571428571428572
+        },
+        {
+          "quarter": "2020Q1",
+          "drug_total": 833,
+          "idx_n": 5,
+          "ctrl_n": 5,
+          "idx_frac": 0.006002400960384154,
+          "ctrl_frac": 0.006002400960384154,
+          "diff_frac": 0.0
+        },
+        {
+          "quarter": "2020Q2",
+          "drug_total": 781,
+          "idx_n": 2,
+          "ctrl_n": 1,
+          "idx_frac": 0.002560819462227913,
+          "ctrl_frac": 0.0012804097311139564,
+          "diff_frac": 0.0012804097311139564
+        },
+        {
+          "quarter": "2020Q3",
+          "drug_total": 855,
+          "idx_n": 9,
+          "ctrl_n": 2,
+          "idx_frac": 0.010526315789473684,
+          "ctrl_frac": 0.0023391812865497076,
+          "diff_frac": 0.008187134502923977
+        },
+        {
+          "quarter": "2020Q4",
+          "drug_total": 894,
+          "idx_n": 8,
+          "ctrl_n": 3,
+          "idx_frac": 0.008948545861297539,
+          "ctrl_frac": 0.003355704697986577,
+          "diff_frac": 0.005592841163310962
+        },
+        {
+          "quarter": "2021Q1",
+          "drug_total": 892,
+          "idx_n": 9,
+          "ctrl_n": 0,
+          "idx_frac": 0.010089686098654708,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.010089686098654708
+        },
+        {
+          "quarter": "2021Q2",
+          "drug_total": 790,
+          "idx_n": 7,
+          "ctrl_n": 1,
+          "idx_frac": 0.008860759493670886,
+          "ctrl_frac": 0.0012658227848101266,
+          "diff_frac": 0.007594936708860759
+        },
+        {
+          "quarter": "2021Q3",
+          "drug_total": 909,
+          "idx_n": 4,
+          "ctrl_n": 4,
+          "idx_frac": 0.0044004400440044,
+          "ctrl_frac": 0.0044004400440044,
+          "diff_frac": 0.0
+        },
+        {
+          "quarter": "2021Q4",
+          "drug_total": 864,
+          "idx_n": 7,
+          "ctrl_n": 0,
+          "idx_frac": 0.008101851851851851,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.008101851851851851
+        },
+        {
+          "quarter": "2022Q1",
+          "drug_total": 757,
+          "idx_n": 1,
+          "ctrl_n": 1,
+          "idx_frac": 0.001321003963011889,
+          "ctrl_frac": 0.001321003963011889,
+          "diff_frac": 0.0
+        },
+        {
+          "quarter": "2022Q2",
+          "drug_total": 816,
+          "idx_n": 3,
+          "ctrl_n": 1,
+          "idx_frac": 0.003676470588235294,
+          "ctrl_frac": 0.0012254901960784314,
+          "diff_frac": 0.0024509803921568627
+        },
+        {
+          "quarter": "2022Q3",
+          "drug_total": 878,
+          "idx_n": 8,
+          "ctrl_n": 3,
+          "idx_frac": 0.009111617312072893,
+          "ctrl_frac": 0.003416856492027335,
+          "diff_frac": 0.0056947608200455585
+        },
+        {
+          "quarter": "2022Q4",
+          "drug_total": 972,
+          "idx_n": 6,
+          "ctrl_n": 5,
+          "idx_frac": 0.006172839506172839,
+          "ctrl_frac": 0.0051440329218107,
+          "diff_frac": 0.00102880658436214
+        },
+        {
+          "quarter": "2023Q1",
+          "drug_total": 991,
+          "idx_n": 6,
+          "ctrl_n": 1,
+          "idx_frac": 0.006054490413723511,
+          "ctrl_frac": 0.0010090817356205853,
+          "diff_frac": 0.005045408678102927
+        },
+        {
+          "quarter": "2023Q2",
+          "drug_total": 1072,
+          "idx_n": 5,
+          "ctrl_n": 7,
+          "idx_frac": 0.0046641791044776115,
+          "ctrl_frac": 0.0065298507462686565,
+          "diff_frac": -0.0018656716417910447
+        },
+        {
+          "quarter": "2023Q3",
+          "drug_total": 1097,
+          "idx_n": 3,
+          "ctrl_n": 2,
+          "idx_frac": 0.0027347310847766638,
+          "ctrl_frac": 0.0018231540565177757,
+          "diff_frac": 0.0009115770282588879
+        },
+        {
+          "quarter": "2023Q4",
+          "drug_total": 1190,
+          "idx_n": 8,
+          "ctrl_n": 6,
+          "idx_frac": 0.0067226890756302525,
+          "ctrl_frac": 0.005042016806722689,
+          "diff_frac": 0.0016806722689075631
+        },
+        {
+          "quarter": "2024Q1",
+          "drug_total": 1055,
+          "idx_n": 9,
+          "ctrl_n": 9,
+          "idx_frac": 0.008530805687203791,
+          "ctrl_frac": 0.008530805687203791,
+          "diff_frac": 0.0
+        },
+        {
+          "quarter": "2024Q2",
+          "drug_total": 968,
+          "idx_n": 4,
+          "ctrl_n": 6,
+          "idx_frac": 0.004132231404958678,
+          "ctrl_frac": 0.006198347107438017,
+          "diff_frac": -0.002066115702479339
+        },
+        {
+          "quarter": "2024Q3",
+          "drug_total": 1610,
+          "idx_n": 5,
+          "ctrl_n": 19,
+          "idx_frac": 0.003105590062111801,
+          "ctrl_frac": 0.011801242236024845,
+          "diff_frac": -0.008695652173913044
+        },
+        {
+          "quarter": "2024Q4",
+          "drug_total": 1355,
+          "idx_n": 2,
+          "ctrl_n": 10,
+          "idx_frac": 0.0014760147601476014,
+          "ctrl_frac": 0.007380073800738007,
+          "diff_frac": -0.005904059040590406
+        },
+        {
+          "quarter": "2025Q1",
+          "drug_total": 1048,
+          "idx_n": 11,
+          "ctrl_n": 17,
+          "idx_frac": 0.01049618320610687,
+          "ctrl_frac": 0.016221374045801526,
+          "diff_frac": -0.0057251908396946565
+        },
+        {
+          "quarter": "2025Q2",
+          "drug_total": 1077,
+          "idx_n": 3,
+          "ctrl_n": 10,
+          "idx_frac": 0.002785515320334262,
+          "ctrl_frac": 0.009285051067780872,
+          "diff_frac": -0.0064995357474466105
+        },
+        {
+          "quarter": "2025Q3",
+          "drug_total": 1015,
+          "idx_n": 3,
+          "ctrl_n": 10,
+          "idx_frac": 0.002955665024630542,
+          "ctrl_frac": 0.009852216748768473,
+          "diff_frac": -0.006896551724137931
+        },
+        {
+          "quarter": "2025Q4",
+          "drug_total": 1064,
+          "idx_n": 10,
+          "ctrl_n": 9,
+          "idx_frac": 0.009398496240601503,
+          "ctrl_frac": 0.008458646616541353,
+          "diff_frac": 0.0009398496240601503
+        },
+        {
+          "quarter": "2026Q1",
+          "drug_total": 1259,
+          "idx_n": 4,
+          "ctrl_n": 15,
+          "idx_frac": 0.003177124702144559,
+          "ctrl_frac": 0.011914217633042097,
+          "diff_frac": -0.008737092930897538
+        },
+        {
+          "quarter": "2026Q2",
+          "drug_total": 1385,
+          "idx_n": 3,
+          "ctrl_n": 13,
+          "idx_frac": 0.0021660649819494585,
+          "ctrl_frac": 0.009386281588447653,
+          "diff_frac": -0.007220216606498195
+        },
+        {
+          "quarter": "2026Q3",
+          "drug_total": 1253,
+          "idx_n": 6,
+          "ctrl_n": 8,
+          "idx_frac": 0.004788507581803671,
+          "ctrl_frac": 0.006384676775738229,
+          "diff_frac": -0.0015961691939345571
+        }
+      ]
+    },
+    "tepotinib_AKI": {
+      "anchor": "2021Q2",
+      "rows": [
+        {
+          "quarter": "2021Q2",
+          "drug_total": 20,
+          "idx_n": 6,
+          "ctrl_n": 0,
+          "idx_frac": 0.3,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.3
+        },
+        {
+          "quarter": "2021Q3",
+          "drug_total": 20,
+          "idx_n": 4,
+          "ctrl_n": 0,
+          "idx_frac": 0.2,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.2
+        },
+        {
+          "quarter": "2021Q4",
+          "drug_total": 21,
+          "idx_n": 8,
+          "ctrl_n": 0,
+          "idx_frac": 0.38095238095238093,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.38095238095238093
+        },
+        {
+          "quarter": "2022Q4",
+          "drug_total": 37,
+          "idx_n": 9,
+          "ctrl_n": 0,
+          "idx_frac": 0.24324324324324326,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.24324324324324326
+        },
+        {
+          "quarter": "2023Q1",
+          "drug_total": 21,
+          "idx_n": 2,
+          "ctrl_n": 0,
+          "idx_frac": 0.09523809523809523,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.09523809523809523
+        },
+        {
+          "quarter": "2023Q2",
+          "drug_total": 27,
+          "idx_n": 1,
+          "ctrl_n": 0,
+          "idx_frac": 0.037037037037037035,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.037037037037037035
+        },
+        {
+          "quarter": "2023Q3",
+          "drug_total": 65,
+          "idx_n": 4,
+          "ctrl_n": 0,
+          "idx_frac": 0.06153846153846154,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.06153846153846154
+        },
+        {
+          "quarter": "2023Q4",
+          "drug_total": 70,
+          "idx_n": 8,
+          "ctrl_n": 0,
+          "idx_frac": 0.11428571428571428,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.11428571428571428
+        },
+        {
+          "quarter": "2024Q1",
+          "drug_total": 35,
+          "idx_n": 3,
+          "ctrl_n": 0,
+          "idx_frac": 0.08571428571428572,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.08571428571428572
+        },
+        {
+          "quarter": "2024Q2",
+          "drug_total": 22,
+          "idx_n": 4,
+          "ctrl_n": 0,
+          "idx_frac": 0.18181818181818182,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.18181818181818182
+        },
+        {
+          "quarter": "2024Q4",
+          "drug_total": 21,
+          "idx_n": 4,
+          "ctrl_n": 0,
+          "idx_frac": 0.19047619047619047,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.19047619047619047
+        },
+        {
+          "quarter": "2025Q1",
+          "drug_total": 29,
+          "idx_n": 3,
+          "ctrl_n": 0,
+          "idx_frac": 0.10344827586206896,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.10344827586206896
+        },
+        {
+          "quarter": "2025Q2",
+          "drug_total": 21,
+          "idx_n": 4,
+          "ctrl_n": 0,
+          "idx_frac": 0.19047619047619047,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.19047619047619047
+        },
+        {
+          "quarter": "2025Q3",
+          "drug_total": 23,
+          "idx_n": 1,
+          "ctrl_n": 0,
+          "idx_frac": 0.043478260869565216,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.043478260869565216
+        },
+        {
+          "quarter": "2025Q4",
+          "drug_total": 32,
+          "idx_n": 1,
+          "ctrl_n": 0,
+          "idx_frac": 0.03125,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.03125
+        },
+        {
+          "quarter": "2026Q1",
+          "drug_total": 38,
+          "idx_n": 4,
+          "ctrl_n": 0,
+          "idx_frac": 0.10526315789473684,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.10526315789473684
+        },
+        {
+          "quarter": "2026Q2",
+          "drug_total": 71,
+          "idx_n": 5,
+          "ctrl_n": 0,
+          "idx_frac": 0.07042253521126761,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.07042253521126761
+        },
+        {
+          "quarter": "2026Q3",
+          "drug_total": 48,
+          "idx_n": 5,
+          "ctrl_n": 0,
+          "idx_frac": 0.10416666666666667,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.10416666666666667
+        }
+      ]
+    },
+    "lazertinib_ILD": {
+      "anchor": null,
+      "rows": [
+        {
+          "quarter": "2024Q3",
+          "drug_total": 23,
+          "idx_n": 0,
+          "ctrl_n": 0,
+          "idx_frac": 0.0,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.0
+        },
+        {
+          "quarter": "2024Q4",
+          "drug_total": 66,
+          "idx_n": 2,
+          "ctrl_n": 0,
+          "idx_frac": 0.030303030303030304,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.030303030303030304
+        },
+        {
+          "quarter": "2025Q1",
+          "drug_total": 78,
+          "idx_n": 3,
+          "ctrl_n": 0,
+          "idx_frac": 0.038461538461538464,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.038461538461538464
+        },
+        {
+          "quarter": "2025Q2",
+          "drug_total": 65,
+          "idx_n": 5,
+          "ctrl_n": 0,
+          "idx_frac": 0.07692307692307693,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.07692307692307693
+        },
+        {
+          "quarter": "2025Q3",
+          "drug_total": 89,
+          "idx_n": 3,
+          "ctrl_n": 0,
+          "idx_frac": 0.033707865168539325,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.033707865168539325
+        },
+        {
+          "quarter": "2025Q4",
+          "drug_total": 98,
+          "idx_n": 7,
+          "ctrl_n": 1,
+          "idx_frac": 0.07142857142857142,
+          "ctrl_frac": 0.01020408163265306,
+          "diff_frac": 0.061224489795918366
+        },
+        {
+          "quarter": "2026Q1",
+          "drug_total": 121,
+          "idx_n": 7,
+          "ctrl_n": 0,
+          "idx_frac": 0.05785123966942149,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.05785123966942149
+        },
+        {
+          "quarter": "2026Q2",
+          "drug_total": 123,
+          "idx_n": 6,
+          "ctrl_n": 1,
+          "idx_frac": 0.04878048780487805,
+          "ctrl_frac": 0.008130081300813009,
+          "diff_frac": 0.04065040650406504
+        },
+        {
+          "quarter": "2026Q3",
+          "drug_total": 152,
+          "idx_n": 5,
+          "ctrl_n": 1,
+          "idx_frac": 0.03289473684210526,
+          "ctrl_frac": 0.006578947368421052,
+          "diff_frac": 0.02631578947368421
+        }
+      ]
+    },
+    "amivantamab_IRR": {
+      "anchor": "2021Q2",
+      "rows": [
+        {
+          "quarter": "2021Q3",
+          "drug_total": 24,
+          "idx_n": 15,
+          "ctrl_n": 0,
+          "idx_frac": 0.625,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.625
+        },
+        {
+          "quarter": "2021Q4",
+          "drug_total": 40,
+          "idx_n": 14,
+          "ctrl_n": 0,
+          "idx_frac": 0.35,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.35
+        },
+        {
+          "quarter": "2022Q1",
+          "drug_total": 41,
+          "idx_n": 13,
+          "ctrl_n": 0,
+          "idx_frac": 0.3170731707317073,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.3170731707317073
+        },
+        {
+          "quarter": "2022Q2",
+          "drug_total": 35,
+          "idx_n": 12,
+          "ctrl_n": 0,
+          "idx_frac": 0.34285714285714286,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.34285714285714286
+        },
+        {
+          "quarter": "2022Q3",
+          "drug_total": 35,
+          "idx_n": 9,
+          "ctrl_n": 0,
+          "idx_frac": 0.2571428571428571,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.2571428571428571
+        },
+        {
+          "quarter": "2022Q4",
+          "drug_total": 43,
+          "idx_n": 17,
+          "ctrl_n": 1,
+          "idx_frac": 0.3953488372093023,
+          "ctrl_frac": 0.023255813953488372,
+          "diff_frac": 0.37209302325581395
+        },
+        {
+          "quarter": "2023Q1",
+          "drug_total": 39,
+          "idx_n": 12,
+          "ctrl_n": 0,
+          "idx_frac": 0.3076923076923077,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.3076923076923077
+        },
+        {
+          "quarter": "2023Q2",
+          "drug_total": 61,
+          "idx_n": 19,
+          "ctrl_n": 0,
+          "idx_frac": 0.3114754098360656,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.3114754098360656
+        },
+        {
+          "quarter": "2023Q3",
+          "drug_total": 39,
+          "idx_n": 10,
+          "ctrl_n": 1,
+          "idx_frac": 0.2564102564102564,
+          "ctrl_frac": 0.02564102564102564,
+          "diff_frac": 0.23076923076923078
+        },
+        {
+          "quarter": "2023Q4",
+          "drug_total": 64,
+          "idx_n": 22,
+          "ctrl_n": 1,
+          "idx_frac": 0.34375,
+          "ctrl_frac": 0.015625,
+          "diff_frac": 0.328125
+        },
+        {
+          "quarter": "2024Q1",
+          "drug_total": 82,
+          "idx_n": 21,
+          "ctrl_n": 0,
+          "idx_frac": 0.25609756097560976,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.25609756097560976
+        },
+        {
+          "quarter": "2024Q2",
+          "drug_total": 158,
+          "idx_n": 40,
+          "ctrl_n": 0,
+          "idx_frac": 0.25316455696202533,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.25316455696202533
+        },
+        {
+          "quarter": "2024Q3",
+          "drug_total": 170,
+          "idx_n": 40,
+          "ctrl_n": 0,
+          "idx_frac": 0.23529411764705882,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.23529411764705882
+        },
+        {
+          "quarter": "2024Q4",
+          "drug_total": 182,
+          "idx_n": 40,
+          "ctrl_n": 0,
+          "idx_frac": 0.21978021978021978,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.21978021978021978
+        },
+        {
+          "quarter": "2025Q1",
+          "drug_total": 318,
+          "idx_n": 81,
+          "ctrl_n": 1,
+          "idx_frac": 0.25471698113207547,
+          "ctrl_frac": 0.0031446540880503146,
+          "diff_frac": 0.25157232704402516
+        },
+        {
+          "quarter": "2025Q2",
+          "drug_total": 356,
+          "idx_n": 69,
+          "ctrl_n": 2,
+          "idx_frac": 0.19382022471910113,
+          "ctrl_frac": 0.0056179775280898875,
+          "diff_frac": 0.18820224719101122
+        },
+        {
+          "quarter": "2025Q3",
+          "drug_total": 366,
+          "idx_n": 91,
+          "ctrl_n": 0,
+          "idx_frac": 0.24863387978142076,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.24863387978142076
+        },
+        {
+          "quarter": "2025Q4",
+          "drug_total": 442,
+          "idx_n": 76,
+          "ctrl_n": 2,
+          "idx_frac": 0.17194570135746606,
+          "ctrl_frac": 0.004524886877828055,
+          "diff_frac": 0.167420814479638
+        },
+        {
+          "quarter": "2026Q1",
+          "drug_total": 427,
+          "idx_n": 71,
+          "ctrl_n": 0,
+          "idx_frac": 0.16627634660421545,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.16627634660421545
+        },
+        {
+          "quarter": "2026Q2",
+          "drug_total": 478,
+          "idx_n": 59,
+          "ctrl_n": 2,
+          "idx_frac": 0.12343096234309624,
+          "ctrl_frac": 0.0041841004184100415,
+          "diff_frac": 0.1192468619246862
+        },
+        {
+          "quarter": "2026Q3",
+          "drug_total": 456,
+          "idx_n": 46,
+          "ctrl_n": 1,
+          "idx_frac": 0.10087719298245613,
+          "ctrl_frac": 0.0021929824561403508,
+          "diff_frac": 0.09868421052631579
+        }
+      ]
+    },
+    "amivantamab_ILD": {
+      "anchor": "2021Q2",
+      "rows": [
+        {
+          "quarter": "2021Q3",
+          "drug_total": 24,
+          "idx_n": 0,
+          "ctrl_n": 0,
+          "idx_frac": 0.0,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.0
+        },
+        {
+          "quarter": "2021Q4",
+          "drug_total": 40,
+          "idx_n": 1,
+          "ctrl_n": 0,
+          "idx_frac": 0.025,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.025
+        },
+        {
+          "quarter": "2022Q1",
+          "drug_total": 41,
+          "idx_n": 4,
+          "ctrl_n": 0,
+          "idx_frac": 0.0975609756097561,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.0975609756097561
+        },
+        {
+          "quarter": "2022Q2",
+          "drug_total": 35,
+          "idx_n": 4,
+          "ctrl_n": 0,
+          "idx_frac": 0.11428571428571428,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.11428571428571428
+        },
+        {
+          "quarter": "2022Q3",
+          "drug_total": 35,
+          "idx_n": 2,
+          "ctrl_n": 0,
+          "idx_frac": 0.05714285714285714,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.05714285714285714
+        },
+        {
+          "quarter": "2022Q4",
+          "drug_total": 43,
+          "idx_n": 1,
+          "ctrl_n": 1,
+          "idx_frac": 0.023255813953488372,
+          "ctrl_frac": 0.023255813953488372,
+          "diff_frac": 0.0
+        },
+        {
+          "quarter": "2023Q1",
+          "drug_total": 39,
+          "idx_n": 2,
+          "ctrl_n": 0,
+          "idx_frac": 0.05128205128205128,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.05128205128205128
+        },
+        {
+          "quarter": "2023Q2",
+          "drug_total": 61,
+          "idx_n": 3,
+          "ctrl_n": 0,
+          "idx_frac": 0.04918032786885246,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.04918032786885246
+        },
+        {
+          "quarter": "2023Q3",
+          "drug_total": 39,
+          "idx_n": 0,
+          "ctrl_n": 1,
+          "idx_frac": 0.0,
+          "ctrl_frac": 0.02564102564102564,
+          "diff_frac": -0.02564102564102564
+        },
+        {
+          "quarter": "2023Q4",
+          "drug_total": 64,
+          "idx_n": 0,
+          "ctrl_n": 1,
+          "idx_frac": 0.0,
+          "ctrl_frac": 0.015625,
+          "diff_frac": -0.015625
+        },
+        {
+          "quarter": "2024Q1",
+          "drug_total": 82,
+          "idx_n": 2,
+          "ctrl_n": 0,
+          "idx_frac": 0.024390243902439025,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.024390243902439025
+        },
+        {
+          "quarter": "2024Q2",
+          "drug_total": 158,
+          "idx_n": 4,
+          "ctrl_n": 0,
+          "idx_frac": 0.02531645569620253,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.02531645569620253
+        },
+        {
+          "quarter": "2024Q3",
+          "drug_total": 170,
+          "idx_n": 3,
+          "ctrl_n": 0,
+          "idx_frac": 0.01764705882352941,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.01764705882352941
+        },
+        {
+          "quarter": "2024Q4",
+          "drug_total": 182,
+          "idx_n": 2,
+          "ctrl_n": 0,
+          "idx_frac": 0.01098901098901099,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.01098901098901099
+        },
+        {
+          "quarter": "2025Q1",
+          "drug_total": 318,
+          "idx_n": 7,
+          "ctrl_n": 1,
+          "idx_frac": 0.0220125786163522,
+          "ctrl_frac": 0.0031446540880503146,
+          "diff_frac": 0.018867924528301886
+        },
+        {
+          "quarter": "2025Q2",
+          "drug_total": 356,
+          "idx_n": 17,
+          "ctrl_n": 2,
+          "idx_frac": 0.047752808988764044,
+          "ctrl_frac": 0.0056179775280898875,
+          "diff_frac": 0.042134831460674156
+        },
+        {
+          "quarter": "2025Q3",
+          "drug_total": 366,
+          "idx_n": 9,
+          "ctrl_n": 0,
+          "idx_frac": 0.02459016393442623,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.02459016393442623
+        },
+        {
+          "quarter": "2025Q4",
+          "drug_total": 442,
+          "idx_n": 17,
+          "ctrl_n": 2,
+          "idx_frac": 0.038461538461538464,
+          "ctrl_frac": 0.004524886877828055,
+          "diff_frac": 0.033936651583710405
+        },
+        {
+          "quarter": "2026Q1",
+          "drug_total": 427,
+          "idx_n": 14,
+          "ctrl_n": 0,
+          "idx_frac": 0.03278688524590164,
+          "ctrl_frac": 0.0,
+          "diff_frac": 0.03278688524590164
+        },
+        {
+          "quarter": "2026Q2",
+          "drug_total": 478,
+          "idx_n": 11,
+          "ctrl_n": 2,
+          "idx_frac": 0.02301255230125523,
+          "ctrl_frac": 0.0041841004184100415,
+          "diff_frac": 0.01882845188284519
+        },
+        {
+          "quarter": "2026Q3",
+          "drug_total": 456,
+          "idx_n": 10,
+          "ctrl_n": 1,
+          "idx_frac": 0.021929824561403508,
+          "ctrl_frac": 0.0021929824561403508,
+          "diff_frac": 0.019736842105263157
+        }
+      ]
+    }
+  },
+  "change_points": {
+    "osimertinib_ILD": {
+      "change_quarter": "2019Q4",
+      "delta": -0.05327,
+      "split_index": 16,
+      "anchor": "2018Q2",
+      "max_diff_frac": 0.125,
+      "min_diff_frac": 0.0
+    },
+    "osimertinib_QT": {
+      "change_quarter": "2024Q3",
+      "delta": -0.00998,
+      "split_index": 35,
+      "anchor": "2018Q2",
+      "max_diff_frac": 0.02303,
+      "min_diff_frac": -0.0303
+    },
+    "tepotinib_AKI": {
+      "change_quarter": "2023Q1",
+      "delta": -0.18001,
+      "split_index": 4,
+      "anchor": "2021Q2",
+      "max_diff_frac": 0.38095,
+      "min_diff_frac": 0.03125
+    },
+    "lazertinib_ILD": {
+      "change_quarter": "2025Q3",
+      "delta": 0.00753,
+      "split_index": 4,
+      "anchor": null,
+      "max_diff_frac": 0.07692,
+      "min_diff_frac": 0.0
+    },
+    "amivantamab_IRR": {
+      "change_quarter": "2022Q3",
+      "delta": -0.17275,
+      "split_index": 4,
+      "anchor": "2021Q2",
+      "max_diff_frac": 0.625,
+      "min_diff_frac": 0.09868
+    },
+    "amivantamab_ILD": {
+      "change_quarter": "2022Q4",
+      "delta": -0.03827,
+      "split_index": 5,
+      "anchor": "2021Q2",
+      "max_diff_frac": 0.11429,
+      "min_diff_frac": -0.02564
+    }
+  }
+}

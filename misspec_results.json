@@ -1,0 +1,101 @@
+{
+  "n_sim": 20000,
+  "seed": 20261121,
+  "alpha": 0.05,
+  "fitted_null": {
+    "mu_hat": -0.8355,
+    "sigma_hat": 0.2136
+  },
+  "scenarios": [
+    {
+      "naive_fpr": 0.9932,
+      "cal_fpr": 0.052,
+      "scenario": "M0_correct",
+      "description": "bias ~ N(mu_hat, sigma_hat^2); model correct",
+      "oracle_cal_fpr": 0.0508,
+      "true_params": {
+        "mu": -0.8355,
+        "sigma": 0.2136
+      },
+      "fit_params": {
+        "mu": -0.8355,
+        "sigma": 0.2136
+      }
+    },
+    {
+      "naive_fpr": 0.972,
+      "cal_fpr": 0.1726,
+      "scenario": "M1_sigma_x1.5",
+      "description": "true sigma = 1.5x fitted (panel underestimates dispersion)",
+      "oracle_cal_fpr": 0.0508,
+      "true_params": {
+        "mu": -0.8355,
+        "sigma": 0.3204
+      },
+      "fit_params": {
+        "mu": -0.8355,
+        "sigma": 0.2136
+      }
+    },
+    {
+      "naive_fpr": 0.9416,
+      "cal_fpr": 0.3008,
+      "scenario": "M1_sigma_x2.0",
+      "description": "true sigma = 2.0x fitted (panel underestimates dispersion)",
+      "oracle_cal_fpr": 0.0489,
+      "true_params": {
+        "mu": -0.8355,
+        "sigma": 0.4272
+      },
+      "fit_params": {
+        "mu": -0.8355,
+        "sigma": 0.2136
+      }
+    },
+    {
+      "naive_fpr": 0.9919,
+      "cal_fpr": 0.051,
+      "scenario": "M2_heavy_t5",
+      "description": "bias ~ t(5) scaled to sigma_hat; normal fit mis-specified tail",
+      "oracle_cal_fpr": 0.0519,
+      "true_params": {
+        "mu": -0.8355,
+        "sigma": 0.2136
+      },
+      "fit_params": {
+        "mu": -0.8355,
+        "sigma": 0.2136
+      }
+    },
+    {
+      "scenario": "M3_drift_tau0.15",
+      "description": "pairwise null location mu_hat + eps, eps~N(0,0.15^2)",
+      "naive_fpr": 0.9877,
+      "cal_fpr": 0.0996,
+      "oracle_cal_fpr": 0.0507,
+      "true_params": {
+        "mu": "pairwise",
+        "sigma": 0.2136
+      },
+      "fit_params": {
+        "mu": -0.8355,
+        "sigma": 0.2136
+      }
+    },
+    {
+      "scenario": "M3_drift_tau0.3",
+      "description": "pairwise null location mu_hat + eps, eps~N(0,0.3^2)",
+      "naive_fpr": 0.9601,
+      "cal_fpr": 0.2279,
+      "oracle_cal_fpr": 0.0483,
+      "true_params": {
+        "mu": "pairwise",
+        "sigma": 0.2136
+      },
+      "fit_params": {
+        "mu": -0.8355,
+        "sigma": 0.2136
+      }
+    }
+  ]
+}

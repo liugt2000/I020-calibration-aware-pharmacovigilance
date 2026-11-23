@@ -1,0 +1,167 @@
+﻿label,drug,outcome_key,pts,a,drug_total,event_total,N
+IDX::P1_osimertinib_ILD,osimertinib,P1_osimertinib_ILD,Interstitial lung disease|Pneumonitis|Interstitial pneumonitis|Pulmonary fibrosis|Acute interstitial pneumonia,1091,33148,100416,21054159
+IDX::P2_osimertinib_QT,osimertinib,P2_osimertinib_QT,Electrocardiogram QT prolonged|Long QT syndrome,227,33148,38342,21054159
+IDX::P3_tepotinib_AKI,tepotinib,P3_tepotinib_AKI,Acute kidney injury|Renal impairment|Blood creatinine increased|Renal failure acute,84,691,330458,21054159
+IDX::P4_lazertinib_ILD,lazertinib,P4_lazertinib_ILD,Interstitial lung disease|Pneumonitis,40,865,79503,21054159
+IDX::P5_amivantamab_IRR,amivantamab,P5_amivantamab_IRR,Infusion related reaction,778,3858,66353,21054159
+IDX::P5b_amivantamab_ILD,amivantamab,P5b_amivantamab_ILD,Interstitial lung disease|Pneumonitis,111,3858,79503,21054159
+CAL::osimertinib::N1::Cataract,osimertinib,N1::Cataract,Cataract,102,33148,66375,21054159
+CAL::osimertinib::N1::Benign prostatic hyperplasia,osimertinib,N1::Benign prostatic hyperplasia,Benign prostatic hyperplasia,0,33148,5164,21054159
+CAL::osimertinib::N1::Osteoarthritis,osimertinib,N1::Osteoarthritis,Osteoarthritis,34,33148,49402,21054159
+CAL::osimertinib::N1::Carpal tunnel syndrome,osimertinib,N1::Carpal tunnel syndrome,Carpal tunnel syndrome,3,33148,14025,21054159
+CAL::osimertinib::N1::Inguinal hernia,osimertinib,N1::Inguinal hernia,Inguinal hernia,7,33148,6804,21054159
+CAL::osimertinib::N1::Hemorrhoids,osimertinib,N1::Hemorrhoids,Hemorrhoids,0,33148,0,21054159
+CAL::osimertinib::N1::Diverticulitis,osimertinib,N1::Diverticulitis,Diverticulitis,31,33148,28485,21054159
+CAL::osimertinib::N1::Cholelithiasis,osimertinib,N1::Cholelithiasis,Cholelithiasis,24,33148,32998,21054159
+CAL::osimertinib::N1::Influenza,osimertinib,N1::Influenza,Influenza,73,33148,193979,21054159
+CAL::osimertinib::N1::Tonsillitis,osimertinib,N1::Tonsillitis,Tonsillitis,1,33148,5915,21054159
+CAL::osimertinib::N1::Otitis media,osimertinib,N1::Otitis media,Otitis media,4,33148,4478,21054159
+CAL::osimertinib::N1::Contusion,osimertinib,N1::Contusion,Contusion,59,33148,101098,21054159
+CAL::osimertinib::N1::Laceration,osimertinib,N1::Laceration,Laceration,22,33148,21747,21054159
+CAL::osimertinib::N1::Toothache,osimertinib,N1::Toothache,Toothache,9,33148,18119,21054159
+CAL::osimertinib::N1::Dental caries,osimertinib,N1::Dental caries,Dental caries,5,33148,11073,21054159
+CAL::osimertinib::N1::Gout,osimertinib,N1::Gout,Gout,9,33148,17964,21054159
+CAL::osimertinib::N1::Nephrolithiasis,osimertinib,N1::Nephrolithiasis,Nephrolithiasis,53,33148,45913,21054159
+CAL::osimertinib::N1::Glaucoma,osimertinib,N1::Glaucoma,Glaucoma,25,33148,23145,21054159
+CAL::osimertinib::N1::Varicose veins,osimertinib,N1::Varicose veins,Varicose veins,0,33148,108,21054159
+CAL::osimertinib::N1::Sinusitis,osimertinib,N1::Sinusitis,Sinusitis,32,33148,110032,21054159
+CAL::osimertinib::N2::Disease progression,osimertinib,N2::Disease progression,Disease progression,790,33148,120350,21054159
+CAL::osimertinib::N2::Neoplasm progression,osimertinib,N2::Neoplasm progression,Neoplasm progression,3569,33148,136565,21054159
+CAL::osimertinib::N2::Metastasis,osimertinib,N2::Metastasis,Metastasis,136,33148,7503,21054159
+CAL::osimertinib::N2::Death,osimertinib,N2::Death,Death,11770,33148,902910,21054159
+CAL::osimertinib::N2::General physical health deterioration,osimertinib,N2::General physical health deterioration,General physical health deterioration,291,33148,115819,21054159
+CAL::osimertinib::N2::Pyrexia,osimertinib,N2::Pyrexia,Pyrexia,381,33148,346416,21054159
+CAL::osimertinib::N2::Fatigue,osimertinib,N2::Fatigue,Fatigue,1124,33148,785183,21054159
+CAL::osimertinib::N2::Nausea,osimertinib,N2::Nausea,Nausea,747,33148,793119,21054159
+CAL::osimertinib::N2::Vomiting,osimertinib,N2::Vomiting,Vomiting,465,33148,476128,21054159
+CAL::osimertinib::N2::Decreased appetite,osimertinib,N2::Decreased appetite,Decreased appetite,829,33148,232501,21054159
+CAL::osimertinib::N2::Weight decreased,osimertinib,N2::Weight decreased,Weight decreased,520,33148,279447,21054159
+CAL::osimertinib::N2::Anaemia,osimertinib,N2::Anaemia,Anaemia,353,33148,259898,21054159
+CAL::osimertinib::N2::Pain,osimertinib,N2::Pain,Pain,1356,33148,2248519,21054159
+CAL::osimertinib::N2::Dyspnoea,osimertinib,N2::Dyspnoea,Dyspnoea,831,33148,596365,21054159
+CAL::osimertinib::N2::Cough,osimertinib,N2::Cough,Cough,503,33148,319082,21054159
+CAL::osimertinib::PC::Diarrhoea,osimertinib,PC::Diarrhoea,Diarrhoea,1755,33148,655597,21054159
+CAL::osimertinib::PC::Rash,osimertinib,PC::Rash,Rash,1177,33148,663484,21054159
+CAL::osimertinib::PC::Paronychia,osimertinib,PC::Paronychia,Paronychia,244,33148,4410,21054159
+CAL::osimertinib::PC::Stomatitis,osimertinib,PC::Stomatitis,Stomatitis,311,33148,63209,21054159
+CAL::osimertinib::PC::Pneumonitis,osimertinib,PC::Pneumonitis,Pneumonitis,491,33148,32071,21054159
+CAL::tepotinib::N1::Cataract,tepotinib,N1::Cataract,Cataract,0,691,66375,21054159
+CAL::tepotinib::N1::Benign prostatic hyperplasia,tepotinib,N1::Benign prostatic hyperplasia,Benign prostatic hyperplasia,0,691,5164,21054159
+CAL::tepotinib::N1::Osteoarthritis,tepotinib,N1::Osteoarthritis,Osteoarthritis,0,691,49402,21054159
+CAL::tepotinib::N1::Carpal tunnel syndrome,tepotinib,N1::Carpal tunnel syndrome,Carpal tunnel syndrome,0,691,14025,21054159
+CAL::tepotinib::N1::Inguinal hernia,tepotinib,N1::Inguinal hernia,Inguinal hernia,1,691,6804,21054159
+CAL::tepotinib::N1::Hemorrhoids,tepotinib,N1::Hemorrhoids,Hemorrhoids,0,691,0,21054159
+CAL::tepotinib::N1::Diverticulitis,tepotinib,N1::Diverticulitis,Diverticulitis,0,691,28485,21054159
+CAL::tepotinib::N1::Cholelithiasis,tepotinib,N1::Cholelithiasis,Cholelithiasis,0,691,32998,21054159
+CAL::tepotinib::N1::Influenza,tepotinib,N1::Influenza,Influenza,1,691,193979,21054159
+CAL::tepotinib::N1::Tonsillitis,tepotinib,N1::Tonsillitis,Tonsillitis,0,691,5915,21054159
+CAL::tepotinib::N1::Otitis media,tepotinib,N1::Otitis media,Otitis media,0,691,4478,21054159
+CAL::tepotinib::N1::Contusion,tepotinib,N1::Contusion,Contusion,0,691,101098,21054159
+CAL::tepotinib::N1::Laceration,tepotinib,N1::Laceration,Laceration,1,691,21747,21054159
+CAL::tepotinib::N1::Toothache,tepotinib,N1::Toothache,Toothache,0,691,18119,21054159
+CAL::tepotinib::N1::Dental caries,tepotinib,N1::Dental caries,Dental caries,0,691,11073,21054159
+CAL::tepotinib::N1::Gout,tepotinib,N1::Gout,Gout,0,691,17964,21054159
+CAL::tepotinib::N1::Nephrolithiasis,tepotinib,N1::Nephrolithiasis,Nephrolithiasis,1,691,45913,21054159
+CAL::tepotinib::N1::Glaucoma,tepotinib,N1::Glaucoma,Glaucoma,0,691,23145,21054159
+CAL::tepotinib::N1::Varicose veins,tepotinib,N1::Varicose veins,Varicose veins,0,691,108,21054159
+CAL::tepotinib::N1::Sinusitis,tepotinib,N1::Sinusitis,Sinusitis,0,691,110032,21054159
+CAL::tepotinib::N2::Disease progression,tepotinib,N2::Disease progression,Disease progression,43,691,120350,21054159
+CAL::tepotinib::N2::Neoplasm progression,tepotinib,N2::Neoplasm progression,Neoplasm progression,10,691,136565,21054159
+CAL::tepotinib::N2::Metastasis,tepotinib,N2::Metastasis,Metastasis,0,691,7503,21054159
+CAL::tepotinib::N2::Death,tepotinib,N2::Death,Death,114,691,902910,21054159
+CAL::tepotinib::N2::General physical health deterioration,tepotinib,N2::General physical health deterioration,General physical health deterioration,11,691,115819,21054159
+CAL::tepotinib::N2::Pyrexia,tepotinib,N2::Pyrexia,Pyrexia,6,691,346416,21054159
+CAL::tepotinib::N2::Fatigue,tepotinib,N2::Fatigue,Fatigue,56,691,785183,21054159
+CAL::tepotinib::N2::Nausea,tepotinib,N2::Nausea,Nausea,44,691,793119,21054159
+CAL::tepotinib::N2::Vomiting,tepotinib,N2::Vomiting,Vomiting,17,691,476128,21054159
+CAL::tepotinib::N2::Decreased appetite,tepotinib,N2::Decreased appetite,Decreased appetite,27,691,232501,21054159
+CAL::tepotinib::N2::Weight decreased,tepotinib,N2::Weight decreased,Weight decreased,10,691,279447,21054159
+CAL::tepotinib::N2::Anaemia,tepotinib,N2::Anaemia,Anaemia,8,691,259898,21054159
+CAL::tepotinib::N2::Pain,tepotinib,N2::Pain,Pain,44,691,2248519,21054159
+CAL::tepotinib::N2::Dyspnoea,tepotinib,N2::Dyspnoea,Dyspnoea,22,691,596365,21054159
+CAL::tepotinib::N2::Cough,tepotinib,N2::Cough,Cough,8,691,319082,21054159
+CAL::tepotinib::PC::Diarrhoea,tepotinib,PC::Diarrhoea,Diarrhoea,58,691,655597,21054159
+CAL::tepotinib::PC::Rash,tepotinib,PC::Rash,Rash,19,691,663484,21054159
+CAL::tepotinib::PC::Paronychia,tepotinib,PC::Paronychia,Paronychia,0,691,4410,21054159
+CAL::tepotinib::PC::Stomatitis,tepotinib,PC::Stomatitis,Stomatitis,1,691,63209,21054159
+CAL::tepotinib::PC::Pneumonitis,tepotinib,PC::Pneumonitis,Pneumonitis,7,691,32071,21054159
+CAL::lazertinib::N1::Cataract,lazertinib,N1::Cataract,Cataract,2,865,66375,21054159
+CAL::lazertinib::N1::Benign prostatic hyperplasia,lazertinib,N1::Benign prostatic hyperplasia,Benign prostatic hyperplasia,0,865,5164,21054159
+CAL::lazertinib::N1::Osteoarthritis,lazertinib,N1::Osteoarthritis,Osteoarthritis,0,865,49402,21054159
+CAL::lazertinib::N1::Carpal tunnel syndrome,lazertinib,N1::Carpal tunnel syndrome,Carpal tunnel syndrome,0,865,14025,21054159
+CAL::lazertinib::N1::Inguinal hernia,lazertinib,N1::Inguinal hernia,Inguinal hernia,0,865,6804,21054159
+CAL::lazertinib::N1::Hemorrhoids,lazertinib,N1::Hemorrhoids,Hemorrhoids,0,865,0,21054159
+CAL::lazertinib::N1::Diverticulitis,lazertinib,N1::Diverticulitis,Diverticulitis,1,865,28485,21054159
+CAL::lazertinib::N1::Cholelithiasis,lazertinib,N1::Cholelithiasis,Cholelithiasis,0,865,32998,21054159
+CAL::lazertinib::N1::Influenza,lazertinib,N1::Influenza,Influenza,3,865,193979,21054159
+CAL::lazertinib::N1::Tonsillitis,lazertinib,N1::Tonsillitis,Tonsillitis,0,865,5915,21054159
+CAL::lazertinib::N1::Otitis media,lazertinib,N1::Otitis media,Otitis media,0,865,4478,21054159
+CAL::lazertinib::N1::Contusion,lazertinib,N1::Contusion,Contusion,2,865,101098,21054159
+CAL::lazertinib::N1::Laceration,lazertinib,N1::Laceration,Laceration,1,865,21747,21054159
+CAL::lazertinib::N1::Toothache,lazertinib,N1::Toothache,Toothache,0,865,18119,21054159
+CAL::lazertinib::N1::Dental caries,lazertinib,N1::Dental caries,Dental caries,0,865,11073,21054159
+CAL::lazertinib::N1::Gout,lazertinib,N1::Gout,Gout,0,865,17964,21054159
+CAL::lazertinib::N1::Nephrolithiasis,lazertinib,N1::Nephrolithiasis,Nephrolithiasis,0,865,45913,21054159
+CAL::lazertinib::N1::Glaucoma,lazertinib,N1::Glaucoma,Glaucoma,0,865,23145,21054159
+CAL::lazertinib::N1::Varicose veins,lazertinib,N1::Varicose veins,Varicose veins,0,865,108,21054159
+CAL::lazertinib::N1::Sinusitis,lazertinib,N1::Sinusitis,Sinusitis,0,865,110032,21054159
+CAL::lazertinib::N2::Disease progression,lazertinib,N2::Disease progression,Disease progression,5,865,120350,21054159
+CAL::lazertinib::N2::Neoplasm progression,lazertinib,N2::Neoplasm progression,Neoplasm progression,12,865,136565,21054159
+CAL::lazertinib::N2::Metastasis,lazertinib,N2::Metastasis,Metastasis,0,865,7503,21054159
+CAL::lazertinib::N2::Death,lazertinib,N2::Death,Death,10,865,902910,21054159
+CAL::lazertinib::N2::General physical health deterioration,lazertinib,N2::General physical health deterioration,General physical health deterioration,0,865,115819,21054159
+CAL::lazertinib::N2::Pyrexia,lazertinib,N2::Pyrexia,Pyrexia,20,865,346416,21054159
+CAL::lazertinib::N2::Fatigue,lazertinib,N2::Fatigue,Fatigue,46,865,785183,21054159
+CAL::lazertinib::N2::Nausea,lazertinib,N2::Nausea,Nausea,36,865,793119,21054159
+CAL::lazertinib::N2::Vomiting,lazertinib,N2::Vomiting,Vomiting,19,865,476128,21054159
+CAL::lazertinib::N2::Decreased appetite,lazertinib,N2::Decreased appetite,Decreased appetite,28,865,232501,21054159
+CAL::lazertinib::N2::Weight decreased,lazertinib,N2::Weight decreased,Weight decreased,7,865,279447,21054159
+CAL::lazertinib::N2::Anaemia,lazertinib,N2::Anaemia,Anaemia,13,865,259898,21054159
+CAL::lazertinib::N2::Pain,lazertinib,N2::Pain,Pain,60,865,2248519,21054159
+CAL::lazertinib::N2::Dyspnoea,lazertinib,N2::Dyspnoea,Dyspnoea,30,865,596365,21054159
+CAL::lazertinib::N2::Cough,lazertinib,N2::Cough,Cough,10,865,319082,21054159
+CAL::lazertinib::PC::Diarrhoea,lazertinib,PC::Diarrhoea,Diarrhoea,41,865,655597,21054159
+CAL::lazertinib::PC::Rash,lazertinib,PC::Rash,Rash,174,865,663484,21054159
+CAL::lazertinib::PC::Paronychia,lazertinib,PC::Paronychia,Paronychia,69,865,4410,21054159
+CAL::lazertinib::PC::Stomatitis,lazertinib,PC::Stomatitis,Stomatitis,32,865,63209,21054159
+CAL::lazertinib::PC::Pneumonitis,lazertinib,PC::Pneumonitis,Pneumonitis,22,865,32071,21054159
+CAL::amivantamab::N1::Cataract,amivantamab,N1::Cataract,Cataract,6,3858,66375,21054159
+CAL::amivantamab::N1::Benign prostatic hyperplasia,amivantamab,N1::Benign prostatic hyperplasia,Benign prostatic hyperplasia,0,3858,5164,21054159
+CAL::amivantamab::N1::Osteoarthritis,amivantamab,N1::Osteoarthritis,Osteoarthritis,0,3858,49402,21054159
+CAL::amivantamab::N1::Carpal tunnel syndrome,amivantamab,N1::Carpal tunnel syndrome,Carpal tunnel syndrome,1,3858,14025,21054159
+CAL::amivantamab::N1::Inguinal hernia,amivantamab,N1::Inguinal hernia,Inguinal hernia,1,3858,6804,21054159
+CAL::amivantamab::N1::Hemorrhoids,amivantamab,N1::Hemorrhoids,Hemorrhoids,0,3858,0,21054159
+CAL::amivantamab::N1::Diverticulitis,amivantamab,N1::Diverticulitis,Diverticulitis,3,3858,28485,21054159
+CAL::amivantamab::N1::Cholelithiasis,amivantamab,N1::Cholelithiasis,Cholelithiasis,0,3858,32998,21054159
+CAL::amivantamab::N1::Influenza,amivantamab,N1::Influenza,Influenza,15,3858,193979,21054159
+CAL::amivantamab::N1::Tonsillitis,amivantamab,N1::Tonsillitis,Tonsillitis,0,3858,5915,21054159
+CAL::amivantamab::N1::Otitis media,amivantamab,N1::Otitis media,Otitis media,0,3858,4478,21054159
+CAL::amivantamab::N1::Contusion,amivantamab,N1::Contusion,Contusion,5,3858,101098,21054159
+CAL::amivantamab::N1::Laceration,amivantamab,N1::Laceration,Laceration,6,3858,21747,21054159
+CAL::amivantamab::N1::Toothache,amivantamab,N1::Toothache,Toothache,0,3858,18119,21054159
+CAL::amivantamab::N1::Dental caries,amivantamab,N1::Dental caries,Dental caries,0,3858,11073,21054159
+CAL::amivantamab::N1::Gout,amivantamab,N1::Gout,Gout,0,3858,17964,21054159
+CAL::amivantamab::N1::Nephrolithiasis,amivantamab,N1::Nephrolithiasis,Nephrolithiasis,0,3858,45913,21054159
+CAL::amivantamab::N1::Glaucoma,amivantamab,N1::Glaucoma,Glaucoma,0,3858,23145,21054159
+CAL::amivantamab::N1::Varicose veins,amivantamab,N1::Varicose veins,Varicose veins,0,3858,108,21054159
+CAL::amivantamab::N1::Sinusitis,amivantamab,N1::Sinusitis,Sinusitis,0,3858,110032,21054159
+CAL::amivantamab::N2::Disease progression,amivantamab,N2::Disease progression,Disease progression,38,3858,120350,21054159
+CAL::amivantamab::N2::Neoplasm progression,amivantamab,N2::Neoplasm progression,Neoplasm progression,26,3858,136565,21054159
+CAL::amivantamab::N2::Metastasis,amivantamab,N2::Metastasis,Metastasis,4,3858,7503,21054159
+CAL::amivantamab::N2::Death,amivantamab,N2::Death,Death,81,3858,902910,21054159
+CAL::amivantamab::N2::General physical health deterioration,amivantamab,N2::General physical health deterioration,General physical health deterioration,54,3858,115819,21054159
+CAL::amivantamab::N2::Pyrexia,amivantamab,N2::Pyrexia,Pyrexia,72,3858,346416,21054159
+CAL::amivantamab::N2::Fatigue,amivantamab,N2::Fatigue,Fatigue,91,3858,785183,21054159
+CAL::amivantamab::N2::Nausea,amivantamab,N2::Nausea,Nausea,132,3858,793119,21054159
+CAL::amivantamab::N2::Vomiting,amivantamab,N2::Vomiting,Vomiting,58,3858,476128,21054159
+CAL::amivantamab::N2::Decreased appetite,amivantamab,N2::Decreased appetite,Decreased appetite,81,3858,232501,21054159
+CAL::amivantamab::N2::Weight decreased,amivantamab,N2::Weight decreased,Weight decreased,27,3858,279447,21054159
+CAL::amivantamab::N2::Anaemia,amivantamab,N2::Anaemia,Anaemia,31,3858,259898,21054159
+CAL::amivantamab::N2::Pain,amivantamab,N2::Pain,Pain,194,3858,2248519,21054159
+CAL::amivantamab::N2::Dyspnoea,amivantamab,N2::Dyspnoea,Dyspnoea,137,3858,596365,21054159
+CAL::amivantamab::N2::Cough,amivantamab,N2::Cough,Cough,52,3858,319082,21054159
+CAL::amivantamab::PC::Diarrhoea,amivantamab,PC::Diarrhoea,Diarrhoea,89,3858,655597,21054159
+CAL::amivantamab::PC::Rash,amivantamab,PC::Rash,Rash,602,3858,663484,21054159
+CAL::amivantamab::PC::Paronychia,amivantamab,PC::Paronychia,Paronychia,195,3858,4410,21054159
+CAL::amivantamab::PC::Stomatitis,amivantamab,PC::Stomatitis,Stomatitis,100,3858,63209,21054159
+CAL::amivantamab::PC::Pneumonitis,amivantamab,PC::Pneumonitis,Pneumonitis,61,3858,32071,21054159

@@ -1,0 +1,165 @@
+{
+  "N": 21054159,
+  "N_DRUGS": 4,
+  "N_REPORTS": 21054159,
+  "N_TESTED": 6,
+  "N_DRUG_TOTAL_SUM": null,
+  "drug_totals": {
+    "amivantamab": 3858,
+    "lazertinib": 865,
+    "osimertinib": 33148,
+    "tepotinib": 691
+  },
+  "N_NAIVE": 6,
+  "naive_pairs": [
+    "IDX::P1_osimertinib_ILD",
+    "IDX::P2_osimertinib_QT",
+    "IDX::P3_tepotinib_AKI",
+    "IDX::P4_lazertinib_ILD",
+    "IDX::P5_amivantamab_IRR",
+    "IDX::P5b_amivantamab_ILD"
+  ],
+  "N_NC_TOTAL": 140,
+  "N_NC_FLAGGED": 37,
+  "N_NC_SIG": 22,
+  "PCT_BELOW_ONE": 58.9,
+  "NC_median_ROR": 0.858,
+  "N_SURVIVE_ML": 5,
+  "N_SURVIVE_SD": 5,
+  "N_ROBUST_BOTH": 5,
+  "N_BRACKET_STABLE": 3,
+  "N_FDR_SIG": 5,
+  "MU_RANGE": [
+    -0.835,
+    0.545
+  ],
+  "SIGMA_RANGE": [
+    0.0,
+    1.435
+  ],
+  "null_detail": {
+    "osimertinib::N1": {
+      "n": 17,
+      "mu_ml": -0.835,
+      "sig_ml": 0.214
+    },
+    "osimertinib::N2": {
+      "n": 15,
+      "mu_ml": 0.538,
+      "sig_ml": 1.435
+    },
+    "tepotinib::N2": {
+      "n": 14,
+      "mu_ml": 0.545,
+      "sig_ml": 0.653
+    },
+    "lazertinib::N1": {
+      "n": 5,
+      "mu_ml": -0.564,
+      "sig_ml": 0.0
+    },
+    "lazertinib::N2": {
+      "n": 13,
+      "mu_ml": 0.063,
+      "sig_ml": 0.266
+    },
+    "amivantamab::N1": {
+      "n": 7,
+      "mu_ml": -0.62,
+      "sig_ml": 0.123
+    },
+    "amivantamab::N2": {
+      "n": 15,
+      "mu_ml": -0.041,
+      "sig_ml": 0.275
+    }
+  },
+  "N_ATTENUATED": 3,
+  "active_details": [
+    {
+      "pair": "P1_osimertinib_ILD",
+      "ror": 7.169,
+      "ror_active": 0.856,
+      "lo": 0.787,
+      "hi": 0.932,
+      "attenuated": true
+    },
+    {
+      "pair": "P2_osimertinib_QT",
+      "ror": 3.796,
+      "ror_active": 3.506,
+      "lo": 2.622,
+      "hi": 4.69,
+      "attenuated": false
+    },
+    {
+      "pair": "P3_tepotinib_AKI",
+      "ror": 8.68,
+      "ror_active": 2.922,
+      "lo": 2.166,
+      "hi": 3.942,
+      "attenuated": false
+    },
+    {
+      "pair": "P4_lazertinib_ILD",
+      "ror": 12.797,
+      "ror_active": 1.27,
+      "lo": 0.921,
+      "hi": 1.75,
+      "attenuated": true
+    },
+    {
+      "pair": "P5_amivantamab_IRR",
+      "ror": 80.834,
+      "ror_active": 1541.837,
+      "lo": 96.311,
+      "hi": 24683.229,
+      "attenuated": false
+    },
+    {
+      "pair": "P5b_amivantamab_ILD",
+      "ror": 7.825,
+      "ror_active": 1.36,
+      "lo": 0.998,
+      "hi": 1.855,
+      "attenuated": true
+    }
+  ],
+  "N_FINAL": 3,
+  "N_PC_TOTAL": 5,
+  "N_PC_RETAINED_DETAIL": {
+    "osimertinib": [
+      5,
+      5
+    ],
+    "lazertinib": [
+      5,
+      5
+    ],
+    "amivantamab": [
+      4,
+      5
+    ]
+  },
+  "N_PC_RETAINED": 14,
+  "N_PC_TOTAL_ALL": 15,
+  "tiers": {
+    "P1_osimertinib_ILD": "B",
+    "P2_osimertinib_QT": "A",
+    "P3_tepotinib_AKI": "C",
+    "P4_lazertinib_ILD": "B",
+    "P5_amivantamab_IRR": "C",
+    "P5b_amivantamab_ILD": "B"
+  },
+  "tier_reasons": {
+    "P1_osimertinib_ILD": "attenuates to class effect",
+    "P2_osimertinib_QT": "robust, drug-specific, stable",
+    "P3_tepotinib_AKI": "calibration not estimable",
+    "P4_lazertinib_ILD": "attenuates to class effect",
+    "P5_amivantamab_IRR": "unstable comparator estimate (zero/sparse events)",
+    "P5b_amivantamab_ILD": "attenuates to class effect"
+  },
+  "N_TIER_A": 1,
+  "N_TIER_B": 3,
+  "N_TIER_C": 2
+}

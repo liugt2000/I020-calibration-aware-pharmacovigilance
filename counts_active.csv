@@ -1,0 +1,7 @@
+﻿pair,index,comparators,a,index_total,c,comparator_total
+P1_osimertinib_ILD,osimertinib,gefitinib|erlotinib|afatinib|dacomitinib|lazertinib,1091,33148,1110,29042
+P2_osimertinib_QT,osimertinib,gefitinib|erlotinib|afatinib|dacomitinib|lazertinib,227,33148,57,29042
+P3_tepotinib_AKI,tepotinib,capmatinib,84,691,107,2366
+P4_lazertinib_ILD,lazertinib,osimertinib|gefitinib|afatinib,40,865,1739,47278
+P5_amivantamab_IRR,amivantamab,capmatinib|tepotinib,778,3858,0,3050
+P5b_amivantamab_ILD,amivantamab,capmatinib|tepotinib,111,3858,65,3050

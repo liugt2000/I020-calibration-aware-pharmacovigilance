@@ -1,0 +1,208 @@
+{
+  "meta": {
+    "generated": "2026-11-21 14:29:42",
+    "method": "Zhou 2020 network proximity + degree-matched perm (10k)",
+    "seed": 20261121,
+    "n_perm": 10000
+  },
+  "results": {
+    "score040": {
+      "network": {
+        "nodes": 425,
+        "edges": 4665,
+        "score_threshold": 0.4,
+        "diameter": 7
+      },
+      "records": [
+        {
+          "pair": "osimertinib_ILD",
+          "drug": "osimertinib",
+          "outcome": "ILD",
+          "group": "attenuated",
+          "n_targets": 4,
+          "n_tox_genes": 141,
+          "d_obs": 0.75,
+          "null_mean": 0.7674,
+          "null_sd": 0.21228341062043088,
+          "z": -0.08196589620048876,
+          "p_emp": 0.6497,
+          "n_perm_valid": 10000
+        },
+        {
+          "pair": "osimertinib_QT",
+          "drug": "osimertinib",
+          "outcome": "QT",
+          "group": "robust",
+          "n_targets": 4,
+          "n_tox_genes": 147,
+          "d_obs": 0.5,
+          "null_mean": 0.72085,
+          "null_sd": 0.2206641039332779,
+          "z": -1.000842439089134,
+          "p_emp": 0.3057,
+          "n_perm_valid": 10000
+        },
+        {
+          "pair": "tepotinib_AKI",
+          "drug": "tepotinib",
+          "outcome": "AKI",
+          "group": "robust",
+          "n_targets": 7,
+          "n_tox_genes": 150,
+          "d_obs": 0.14285714285714285,
+          "null_mean": 0.5551714285714285,
+          "null_sd": 0.16237891927844725,
+          "z": -2.53921067800217,
+          "p_emp": 0.0207,
+          "n_perm_valid": 10000
+        },
+        {
+          "pair": "lazertinib_ILD",
+          "drug": "lazertinib",
+          "outcome": "ILD",
+          "group": "attenuated",
+          "n_targets": 2,
+          "n_tox_genes": 141,
+          "d_obs": 0.5,
+          "null_mean": 0.7769,
+          "null_sd": 0.2896286907021606,
+          "z": -0.9560516926990148,
+          "p_emp": 0.402,
+          "n_perm_valid": 10000
+        },
+        {
+          "pair": "amivantamab_IRR",
+          "drug": "amivantamab",
+          "outcome": "IRR",
+          "group": "robust",
+          "n_targets": 2,
+          "n_tox_genes": 52,
+          "d_obs": 1.0,
+          "null_mean": 0.7715,
+          "null_sd": 0.2866111731884499,
+          "z": 0.7972473559143447,
+          "p_emp": 1.0,
+          "n_perm_valid": 10000
+        },
+        {
+          "pair": "amivantamab_ILD",
+          "drug": "amivantamab",
+          "outcome": "ILD",
+          "group": "attenuated",
+          "n_targets": 2,
+          "n_tox_genes": 141,
+          "d_obs": 0.5,
+          "null_mean": 0.7753,
+          "null_sd": 0.29532800724480285,
+          "z": -0.9321838540419863,
+          "p_emp": 0.3987,
+          "n_perm_valid": 10000
+        }
+      ],
+      "discriminating": {
+        "mean_z_diff_robust_minus_atten": -0.25753477274515646,
+        "p_one_sided_exact_perm": 0.4,
+        "n_label_perms": 20
+      }
+    },
+    "score070": {
+      "network": {
+        "nodes": 321,
+        "edges": 1348,
+        "score_threshold": 0.7,
+        "diameter": 11
+      },
+      "records": [
+        {
+          "pair": "osimertinib_ILD",
+          "drug": "osimertinib",
+          "outcome": "ILD",
+          "group": "attenuated",
+          "n_targets": 4,
+          "n_tox_genes": 93,
+          "d_obs": 0.75,
+          "null_mean": 0.800225,
+          "null_sd": 0.21840551612069506,
+          "z": -0.22996214057269812,
+          "p_emp": 0.6135,
+          "n_perm_valid": 10000
+        },
+        {
+          "pair": "osimertinib_QT",
+          "drug": "osimertinib",
+          "outcome": "QT",
+          "group": "robust",
+          "n_targets": 4,
+          "n_tox_genes": 118,
+          "d_obs": 0.5,
+          "null_mean": 0.705525,
+          "null_sd": 0.2314542751455421,
+          "z": -0.8879723646096518,
+          "p_emp": 0.3447,
+          "n_perm_valid": 10000
+        },
+        {
+          "pair": "tepotinib_AKI",
+          "drug": "tepotinib",
+          "outcome": "AKI",
+          "group": "robust",
+          "n_targets": 7,
+          "n_tox_genes": 116,
+          "d_obs": 0.14285714285714285,
+          "null_mean": 0.6314428571428571,
+          "null_sd": 0.1660065787424267,
+          "z": -2.943170794717699,
+          "p_emp": 0.0065,
+          "n_perm_valid": 10000
+        },
+        {
+          "pair": "lazertinib_ILD",
+          "drug": "lazertinib",
+          "outcome": "ILD",
+          "group": "attenuated",
+          "n_targets": 2,
+          "n_tox_genes": 93,
+          "d_obs": 0.5,
+          "null_mean": 0.79265,
+          "null_sd": 0.28528777823741625,
+          "z": -1.0258062991974963,
+          "p_emp": 0.3755,
+          "n_perm_valid": 10000
+        },
+        {
+          "pair": "amivantamab_IRR",
+          "drug": "amivantamab",
+          "outcome": "IRR",
+          "group": "robust",
+          "n_targets": 2,
+          "n_tox_genes": 51,
+          "d_obs": 1.0,
+          "null_mean": 0.735,
+          "null_sd": 0.31675705754308037,
+          "z": 0.8366033011402085,
+          "p_emp": 0.9946,
+          "n_perm_valid": 10000
+        },
+        {
+          "pair": "amivantamab_ILD",
+          "drug": "amivantamab",
+          "outcome": "ILD",
+          "group": "attenuated",
+          "n_targets": 2,
+          "n_tox_genes": 93,
+          "d_obs": 0.5,
+          "null_mean": 0.81155,
+          "null_sd": 0.2996173802659915,
+          "z": -1.0398261934051192,
+          "p_emp": 0.3584,
+          "n_perm_valid": 10000
+        }
+      ],
+      "discriminating": {
+        "mean_z_diff_robust_minus_atten": -0.2329817416706097,
+        "p_one_sided_exact_perm": 0.45,
+        "n_label_perms": 20
+      }
+    }
+  }
+}

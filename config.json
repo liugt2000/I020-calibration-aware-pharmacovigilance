@@ -1,0 +1,36 @@
+{
+  "_note": "Frozen definitions encoded for execution. Derived from I020_frozen_definitions_v0.1.md. Amendment A1 (2026-11-21 12:xx): savolitinib removed from active comparator set (FAERS n=0) — logged in deviation log before calibration.",
+  "data_source": "openFDA drug/event.json (primary); ASCII quarterly extracts (validation)",
+  "database_total": 21054159,
+  "drug_field": "patient.drug.openfda.generic_name",
+  "reaction_field": "patient.reaction.reactionmeddrapt",
+  "drugs": {
+    "osimertinib": "OSIMERTINIB",
+    "tepotinib": "TEPOTINIB",
+    "lazertinib": "LAZERTINIB",
+    "amivantamab": "AMIVANTAMAB",
+    "capmatinib": "CAPMATINIB",
+    "gefitinib": "GEFITINIB",
+    "erlotinib": "ERLOTINIB",
+    "afatinib": "AFATINIB",
+    "dacomitinib": "DACOMITINIB"
+  },
+  "index_outcomes": {
+    "P1_osimertinib_ILD": {"drug": "osimertinib", "pts": ["Interstitial lung disease", "Pneumonitis", "Interstitial pneumonitis", "Pulmonary fibrosis", "Acute interstitial pneumonia"]},
+    "P2_osimertinib_QT": {"drug": "osimertinib", "pts": ["Electrocardiogram QT prolonged", "Long QT syndrome"]},
+    "P3_tepotinib_AKI": {"drug": "tepotinib", "pts": ["Acute kidney injury", "Renal impairment", "Blood creatinine increased", "Renal failure acute"]},
+    "P4_lazertinib_ILD": {"drug": "lazertinib", "pts": ["Interstitial lung disease", "Pneumonitis"]},
+    "P5_amivantamab_IRR": {"drug": "amivantamab", "pts": ["Infusion related reaction"]},
+    "P5b_amivantamab_ILD": {"drug": "amivantamab", "pts": ["Interstitial lung disease", "Pneumonitis"]}
+  },
+  "active_comparators": {
+    "osimertinib": ["gefitinib", "erlotinib", "afatinib", "dacomitinib", "lazertinib"],
+    "tepotinib": ["capmatinib"],
+    "lazertinib": ["osimertinib", "gefitinib", "afatinib"],
+    "amivantamab": ["capmatinib", "tepotinib"]
+  },
+  "negative_controls_N1": ["Cataract", "Benign prostatic hyperplasia", "Osteoarthritis", "Carpal tunnel syndrome", "Inguinal hernia", "Hemorrhoids", "Diverticulitis", "Cholelithiasis", "Influenza", "Tonsillitis", "Otitis media", "Contusion", "Laceration", "Toothache", "Dental caries", "Gout", "Nephrolithiasis", "Glaucoma", "Varicose veins", "Sinusitis"],
+  "negative_controls_N2": ["Disease progression", "Neoplasm progression", "Metastasis", "Death", "General physical health deterioration", "Pyrexia", "Fatigue", "Nausea", "Vomiting", "Decreased appetite", "Weight decreased", "Anaemia", "Pain", "Dyspnoea", "Cough"],
+  "positive_controls": ["Diarrhoea", "Rash", "Paronychia", "Stomatitis", "Pneumonitis"],
+  "index_drugs_for_calibration": ["osimertinib", "tepotinib", "lazertinib", "amivantamab"]
+}

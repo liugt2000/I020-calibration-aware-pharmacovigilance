@@ -1,0 +1,70 @@
+{
+  "stages": [
+    {
+      "stage": "0 Naive four-algorithm concordance",
+      "n": 6,
+      "pairs": [
+        "P1_osimertinib_ILD",
+        "P2_osimertinib_QT",
+        "P3_tepotinib_AKI",
+        "P4_lazertinib_ILD",
+        "P5_amivantamab_IRR",
+        "P5b_amivantamab_ILD"
+      ],
+      "action": "all pairs enter agent-specific label/signal review"
+    },
+    {
+      "stage": "1 + Empirical calibration (robust both fits + FDR)",
+      "n": 5,
+      "pairs": [
+        "P1_osimertinib_ILD",
+        "P2_osimertinib_QT",
+        "P4_lazertinib_ILD",
+        "P5_amivantamab_IRR",
+        "P5b_amivantamab_ILD"
+      ],
+      "removed": [
+        "P3_tepotinib_AKI"
+      ],
+      "action": "tepotinib-AKI excluded: null not estimable at current volume"
+    },
+    {
+      "stage": "2 + Active-comparator re-estimation",
+      "n": 2,
+      "pairs": [
+        "P2_osimertinib_QT",
+        "P5_amivantamab_IRR"
+      ],
+      "removed": [
+        "P1_osimertinib_ILD",
+        "P4_lazertinib_ILD",
+        "P5b_amivantamab_ILD"
+      ],
+      "action": "three ILD pairs reclassified as class effects (class-level monitoring, not agent-specific)"
+    },
+    {
+      "stage": "3 + Estimate stability (final Tier A)",
+      "n": 1,
+      "pairs": [
+        "P2_osimertinib_QT"
+      ],
+      "removed": [
+        "P5_amivantamab_IRR"
+      ],
+      "action": "amivantamab-IRR excluded: comparator zero events, UB=24,683"
+    }
+  ],
+  "naive_to_final_reduction": {
+    "from": 6,
+    "to": 1,
+    "pct": 83.3
+  },
+  "false_positive_actions_if_naive_adopted": {
+    "fpr_naive_mean": 0.9548,
+    "fpr_calibrated_mean": 0.0505,
+    "expected_false_actions_per_6_naive": 5.73,
+    "expected_false_actions_per_6_calibrated": 0.3,
+    "interpretation": "Under the fitted reporting-process null, a naive screen of 6 pairs would be expected to generate ~5.6 false agent-specific actions; calibration reduces this to ~0.3."
+  },
+  "decision_rule_note": "An 'agent-specific action' means a label-change discussion or targeted product-specific monitoring decision. Class-effect reclassification is not counted as a loss: it still triggers class-level monitoring."
+}

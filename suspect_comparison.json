@@ -1,0 +1,43 @@
+{
+  "max_exposure_delta_pct": 0.23,
+  "max_index_ror_delta_pct": 2.38,
+  "tier_changes": [],
+  "attenuation_calls_all": [],
+  "attenuation_calls_sus": [],
+  "positive_controls": {
+    "all": {
+      "osimertinib": {
+        "n": 5,
+        "raw": 5,
+        "calibrated": 5
+      },
+      "lazertinib": {
+        "n": 5,
+        "raw": 5,
+        "calibrated": 5
+      },
+      "amivantamab": {
+        "n": 5,
+        "raw": 4,
+        "calibrated": 4
+      }
+    },
+    "suspect": {
+      "osimertinib": {
+        "n": 5,
+        "raw": 5,
+        "calibrated": 5
+      },
+      "lazertinib": {
+        "n": 5,
+        "raw": 5,
+        "calibrated": 5
+      },
+      "amivantamab": {
+        "n": 5,
+        "raw": 4,
+        "calibrated": 4
+      }
+    }
+  }
+}

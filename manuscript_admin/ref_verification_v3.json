@@ -1,0 +1,1017 @@
+{
+  "summary": {
+    "OK": 30,
+    "WARNING": 2,
+    "CRITICAL": 1
+  },
+  "results": [
+    {
+      "num": 1,
+      "status": "OK",
+      "issues": [],
+      "manuscript": {
+        "raw": "Yu J, Zhu M, Zhu Y, Shu Q. From class effects to specificity: FAERS evidence and network mapping of adverse events in NSCLC targeted therapy. *Int J Surg*. 2026;112:9520–9534. PMID 41563236. doi:10.1097/JS9.0000000000004704.",
+        "pmid": "41563236",
+        "doi": "10.1097/JS9.0000000000004704",
+        "author_seg": "Yu J, Zhu M, Zhu Y, Shu Q"
+      },
+      "pubmed": {
+        "title": "From class effects to specificity FAERS evidence and network mapping of adverse events in NSCLC targeted therapy.",
+        "journal": "International journal of surgery (London, England)",
+        "journal_iso": "Int J Surg",
+        "volume": "112",
+        "issue": "4",
+        "pages": "9520-34",
+        "pubdate": "2026 Jan 21",
+        "doi": "10.1097/JS9.0000000000004704",
+        "authors": [
+          "Yu J",
+          "Zhu M",
+          "Zhu Y",
+          "Shu Q"
+        ]
+      }
+    },
+    {
+      "num": 2,
+      "status": "OK",
+      "issues": [],
+      "manuscript": {
+        "raw": "Anand K, Ensor J, Trachtenberg B, Bernicker EH. Osimertinib-Induced Cardiotoxicity: A Retrospective Review of the FDA Adverse Events Reporting System (FAERS). *JACC CardioOncol*. 2019;1(2):172–178. PMID 34396179. doi:10.1016/j.jaccao.2019.10.006.",
+        "pmid": "34396179",
+        "doi": "10.1016/j.jaccao.2019.10.006",
+        "author_seg": "Anand K, Ensor J, Trachtenberg B, Bernicker EH"
+      },
+      "pubmed": {
+        "title": "Osimertinib-Induced Cardiotoxicity: A Retrospective Review of the FDA Adverse Events Reporting System (FAERS).",
+        "journal": "JACC. CardioOncology",
+        "journal_iso": "JACC CardioOncol",
+        "volume": "1",
+        "issue": "2",
+        "pages": "172-178",
+        "pubdate": "2019 Dec",
+        "doi": "10.1016/j.jaccao.2019.10.006",
+        "authors": [
+          "Anand K",
+          "Ensor J",
+          "Trachtenberg B",
+          "Bernicker EH"
+        ]
+      }
+    },
+    {
+      "num": 3,
+      "status": "OK",
+      "issues": [],
+      "manuscript": {
+        "raw": "Osimertinib-induced interstitial lung disease: insights from FAERS signal detection and network toxicology analysis. *BMC Cancer*. 2026;26. PMID 42106642. doi:10.1186/s12885-026-15993-5.",
+        "pmid": "42106642",
+        "doi": "10.1186/s12885-026-15993-5",
+        "author_seg": "Osimertinib-induced interstitial lung disease: insights from FAERS signal detection and network toxicology analysis"
+      },
+      "pubmed": {
+        "title": "Osimertinib-induced interstitial lung disease insights from faers signal detection and network toxicology analysis.",
+        "journal": "BMC cancer",
+        "journal_iso": "BMC Cancer",
+        "volume": "26",
+        "issue": "1",
+        "pages": "",
+        "pubdate": "2026 May 9",
+        "doi": "10.1186/s12885-026-15993-5",
+        "authors": [
+          "Zhang S",
+          "Liu J",
+          "Feng X",
+          "Feng R",
+          "Zhang J",
+          "Liu S",
+          "Lu Y"
+        ]
+      }
+    },
+    {
+      "num": 4,
+      "status": "OK",
+      "issues": [],
+      "manuscript": {
+        "raw": "Zheng R, Chen J, Han J, Lyu J, et al. A tri-scale in silico framework integrating pharmacovigilance and mechanistic modeling suggests tepotinib-associated acute kidney injury risk. *Ren Fail*. 2026;48(1):2610895. PMID 41582009. doi:10.1080/0886022X.2025.2610895.",
+        "pmid": "41582009",
+        "doi": "10.1080/0886022X.2025.2610895",
+        "author_seg": "Zheng R, Chen J, Han J, Lyu J, et al"
+      },
+      "pubmed": {
+        "title": "A tri-scale in silico framework integrating pharmacovigilance and mechanistic modeling suggests tepotinib-associated acute kidney injury risk.",
+        "journal": "Renal failure",
+        "journal_iso": "Ren Fail",
+        "volume": "48",
+        "issue": "1",
+        "pages": "2610895",
+        "pubdate": "2026 Dec",
+        "doi": "10.1080/0886022X.2025.2610895",
+        "authors": [
+          "Zheng R",
+          "Chen J",
+          "Han J",
+          "Lyu J",
+          "Wang Q",
+          "Deng M",
+          "Lu J",
+          "Bai Z"
+        ]
+      }
+    },
+    {
+      "num": 5,
+      "status": "OK",
+      "issues": [],
+      "manuscript": {
+        "raw": "Pariente A, Grégoire F, Fourrier-Reglat A, Haramburu F. Impact of safety alerts on measures of disproportionality in spontaneous reporting databases: the notoriety bias. *Drug Saf*. 2007;30(10):891–898.",
+        "pmid": null,
+        "doi": null,
+        "author_seg": "Pariente A, Grégoire F, Fourrier-Reglat A, Haramburu F"
+      },
+      "pubmed": null
+    },
+    {
+      "num": 6,
+      "status": "OK",
+      "issues": [],
+      "manuscript": {
+        "raw": "Schuemie MJ, Ryan PB, DuMouchel W, Suchard MA, Madigan D. Interpreting observational studies: why empirical calibration is needed to correct p-values. *Stat Med*. 2014;33(2):209–218. PMID 23900808. doi:10.1002/sim.5925.",
+        "pmid": "23900808",
+        "doi": "10.1002/sim.5925",
+        "author_seg": "Schuemie MJ, Ryan PB, DuMouchel W, Suchard MA, Madigan D"
+      },
+      "pubmed": {
+        "title": "Interpreting observational studies: why empirical calibration is needed to correct p-values.",
+        "journal": "Statistics in medicine",
+        "journal_iso": "Stat Med",
+        "volume": "33",
+        "issue": "2",
+        "pages": "209-18",
+        "pubdate": "2014 Jan 30",
+        "doi": "10.1002/sim.5925",
+        "authors": [
+          "Schuemie MJ",
+          "Ryan PB",
+          "DuMouchel W",
+          "Suchard MA",
+          "Madigan D"
+        ]
+      }
+    },
+    {
+      "num": 7,
+      "status": "WARNING",
+      "issues": [
+        "VOLUME 36 Suppl 1 not in manuscript entry"
+      ],
+      "manuscript": {
+        "raw": "Ryan PB, Schuemie MJ, Welebob E, et al. Defining a reference set to support methodological research in drug safety. *Drug Saf*. 2013;36(Suppl 1):S33–S47. PMID 24166222.",
+        "pmid": "24166222",
+        "doi": null,
+        "author_seg": "Ryan PB, Schuemie MJ, Welebob E, et al"
+      },
+      "pubmed": {
+        "title": "Defining a reference set to support methodological research in drug safety.",
+        "journal": "Drug safety",
+        "journal_iso": "Drug Saf",
+        "volume": "36 Suppl 1",
+        "issue": "",
+        "pages": "S33-47",
+        "pubdate": "2013 Oct",
+        "doi": "10.1007/s40264-013-0097-8",
+        "authors": [
+          "Ryan PB",
+          "Schuemie MJ",
+          "Welebob E",
+          "Duke J",
+          "Valentine S",
+          "Hartzema AG"
+        ]
+      }
+    },
+    {
+      "num": 8,
+      "status": "OK",
+      "issues": [],
+      "manuscript": {
+        "raw": "İnkaya A, Güngör HS. Empirical-Null Calibration Challenges Comparative CNS Safety Signals for Androgen-Receptor Pathway Inhibitors: A FAERS Re-Analysis. *Pharmaceuticals (Basel)*. 2026;19(8):1213. PMID 42653711. doi:10.3390/ph19081213.",
+        "pmid": "42653711",
+        "doi": "10.3390/ph19081213",
+        "author_seg": "İnkaya A, Güngör HS"
+      },
+      "pubmed": {
+        "title": "Empirical-Null Calibration Challenges Comparative CNS Safety Signals for Androgen-Receptor Pathway Inhibitors: A FAERS Re-Analysis.",
+        "journal": "Pharmaceuticals (Basel, Switzerland)",
+        "journal_iso": "Pharmaceuticals (Basel)",
+        "volume": "19",
+        "issue": "8",
+        "pages": "",
+        "pubdate": "2026 Aug 1",
+        "doi": "10.3390/ph19081213",
+        "authors": [
+          "İnkaya A",
+          "Güngör HS"
+        ]
+      }
+    },
+    {
+      "num": 9,
+      "status": "OK",
+      "issues": [],
+      "manuscript": {
+        "raw": "Fusaroli M, Salvo F, Bégaud B, et al. The REporting of A Disproportionality analysis for drUg Safety signal detection using individual case safety reports in PharmacoVigilance (READUS-PV): development and statement. *Drug Saf*. 2024;47(6):575–584. PMID 38713346. doi:10.1007/s40264-024-01421-9.",
+        "pmid": "38713346",
+        "doi": "10.1007/s40264-024-01421-9",
+        "author_seg": "Fusaroli M, Salvo F, Bégaud B, et al"
+      },
+      "pubmed": {
+        "title": "The Reporting of a Disproportionality Analysis for Drug Safety Signal Detection Using Individual Case Safety Reports in PharmacoVigilance (READUS-PV): Development and Statement.",
+        "journal": "Drug safety",
+        "journal_iso": "Drug Saf",
+        "volume": "47",
+        "issue": "6",
+        "pages": "575-584",
+        "pubdate": "2024 Jun",
+        "doi": "10.1007/s40264-024-01421-9",
+        "authors": [
+          "Fusaroli M",
+          "Salvo F",
+          "Begaud B",
+          "AlShammari TM",
+          "Bate A",
+          "Battini V",
+          "Brueckner A",
+          "Candore G",
+          "Carnovale C",
+          "Crisafulli S",
+          "Cutroneo PM",
+          "Dolladille C",
+          "Drici MD",
+          "Faillie JL",
+          "Goldman A",
+          "Hauben M",
+          "Herdeiro MT",
+          "Mahaux O",
+          "Manlik K",
+          "Montastruc F",
+          "Noguchi Y",
+          "Norén GN",
+          "Noseda R",
+          "Onakpoya IJ",
+          "Pariente A",
+          "Poluzzi E",
+          "Salem M",
+          "Sartori D",
+          "Trinh NTH",
+          "Tuccori M",
+          "van Hunsel F",
+          "van Puijenbroek E",
+          "Raschi E",
+          "Khouri C"
+        ]
+      }
+    },
+    {
+      "num": 10,
+      "status": "WARNING",
+      "issues": [
+        "TITLE fragment not matched"
+      ],
+      "manuscript": {
+        "raw": "Fusaroli M, Salvo F, Bégaud B, et al. READUS-PV: explanation and elaboration. *Drug Saf*. 2024;47(6):585–599. PMID 38713347. doi:10.1007/s40264-024-01423-7.",
+        "pmid": "38713347",
+        "doi": "10.1007/s40264-024-01423-7",
+        "author_seg": "Fusaroli M, Salvo F, Bégaud B, et al"
+      },
+      "pubmed": {
+        "title": "The REporting of A Disproportionality Analysis for DrUg Safety Signal Detection Using Individual Case Safety Reports in PharmacoVigilance (READUS-PV): Explanation and Elaboration.",
+        "journal": "Drug safety",
+        "journal_iso": "Drug Saf",
+        "volume": "47",
+        "issue": "6",
+        "pages": "585-599",
+        "pubdate": "2024 Jun",
+        "doi": "10.1007/s40264-024-01423-7",
+        "authors": [
+          "Fusaroli M",
+          "Salvo F",
+          "Begaud B",
+          "AlShammari TM",
+          "Bate A",
+          "Battini V",
+          "Brueckner A",
+          "Candore G",
+          "Carnovale C",
+          "Crisafulli S",
+          "Cutroneo PM",
+          "Dolladille C",
+          "Drici MD",
+          "Faillie JL",
+          "Goldman A",
+          "Hauben M",
+          "Herdeiro MT",
+          "Mahaux O",
+          "Manlik K",
+          "Montastruc F",
+          "Noguchi Y",
+          "Norén GN",
+          "Noseda R",
+          "Onakpoya IJ",
+          "Pariente A",
+          "Poluzzi E",
+          "Salem M",
+          "Sartori D",
+          "Trinh NTH",
+          "Tuccori M",
+          "van Hunsel F",
+          "van Puijenbroek E",
+          "Raschi E",
+          "Khouri C"
+        ]
+      }
+    },
+    {
+      "num": 11,
+      "status": "CRITICAL",
+      "issues": [
+        "DOI MISMATCH ms=10.1016/j.jclinepi.2021.07.021 pubmed=10.1016/j.jclinepi.2021.07.014"
+      ],
+      "manuscript": {
+        "raw": "Khouri C, Revol B, Lepelley M, et al. A meta-epidemiological study found lack of transparency and poor reporting of disproportionality analyses for signal detection in pharmacovigilance databases. *J Clin Epidemiol*. 2021;139:191–198. PMID 34329725. doi:10.1016/j.jclinepi.2021.07.021.",
+        "pmid": "34329725",
+        "doi": "10.1016/j.jclinepi.2021.07.021",
+        "author_seg": "Khouri C, Revol B, Lepelley M, et al"
+      },
+      "pubmed": {
+        "title": "A meta-epidemiological study found lack of transparency and poor reporting of disproportionality analyses for signal detection in pharmacovigilance databases.",
+        "journal": "Journal of clinical epidemiology",
+        "journal_iso": "J Clin Epidemiol",
+        "volume": "139",
+        "issue": "",
+        "pages": "191-198",
+        "pubdate": "2021 Nov",
+        "doi": "10.1016/j.jclinepi.2021.07.014",
+        "authors": [
+          "Khouri C",
+          "Revol B",
+          "Lepelley M",
+          "Mouffak A",
+          "Bernardeau C",
+          "Salvo F",
+          "Pariente A",
+          "Roustit M",
+          "Cracowski JL"
+        ]
+      }
+    },
+    {
+      "num": 12,
+      "status": "OK",
+      "issues": [],
+      "manuscript": {
+        "raw": "Mouffak A, Lepelley M, Revol B, et al. High prevalence of spin was found in pharmacovigilance studies using disproportionality analyses to detect safety signals. *J Clin Epidemiol*. 2021;138:73–79. PMID 34186195.",
+        "pmid": "34186195",
+        "doi": null,
+        "author_seg": "Mouffak A, Lepelley M, Revol B, et al"
+      },
+      "pubmed": {
+        "title": "High prevalence of spin was found in pharmacovigilance studies using disproportionality analyses to detect safety signals: a meta-epidemiological study.",
+        "journal": "Journal of clinical epidemiology",
+        "journal_iso": "J Clin Epidemiol",
+        "volume": "138",
+        "issue": "",
+        "pages": "73-79",
+        "pubdate": "2021 Oct",
+        "doi": "10.1016/j.jclinepi.2021.06.022",
+        "authors": [
+          "Mouffak A",
+          "Lepelley M",
+          "Revol B",
+          "Bernardeau C",
+          "Salvo F",
+          "Pariente A",
+          "Roustit M",
+          "Cracowski JL",
+          "Khouri C"
+        ]
+      }
+    },
+    {
+      "num": 13,
+      "status": "OK",
+      "issues": [],
+      "manuscript": {
+        "raw": "van Puijenbroek EP, Bate A, Leufkens HGM, Lindquist M, Orre R, Egberts ACG. A comparison of measures of disproportionality for signal detection in spontaneous reporting systems for adverse drug reactions. *Pharmacoepidemiol Drug Saf*. 2002;11(1):3–10. PMID 11998548. doi:10.1002/pds.668.",
+        "pmid": "11998548",
+        "doi": "10.1002/pds.668",
+        "author_seg": "van Puijenbroek EP, Bate A, Leufkens HGM, Lindquist M, Orre R, Egberts ACG"
+      },
+      "pubmed": {
+        "title": "A comparison of measures of disproportionality for signal detection in spontaneous reporting systems for adverse drug reactions.",
+        "journal": "Pharmacoepidemiology and drug safety",
+        "journal_iso": "Pharmacoepidemiol Drug Saf",
+        "volume": "11",
+        "issue": "1",
+        "pages": "3-10",
+        "pubdate": "2002 Jan-Feb",
+        "doi": "10.1002/pds.668",
+        "authors": [
+          "van Puijenbroek EP",
+          "Bate A",
+          "Leufkens HG",
+          "Lindquist M",
+          "Orre R",
+          "Egberts AC"
+        ]
+      }
+    },
+    {
+      "num": 14,
+      "status": "OK",
+      "issues": [],
+      "manuscript": {
+        "raw": "Evans SJW, Waller PC, Davis S. Use of proportional reporting ratios (PRRs) for signal generation from spontaneous adverse drug reaction reports. *Pharmacoepidemiol Drug Saf*. 2001;10(6):483–486. doi:10.1002/pds.677.",
+        "pmid": null,
+        "doi": "10.1002/pds.677",
+        "author_seg": "Evans SJW, Waller PC, Davis S"
+      },
+      "pubmed": null
+    },
+    {
+      "num": 15,
+      "status": "OK",
+      "issues": [],
+      "manuscript": {
+        "raw": "Bate A, Lindquist M, Edwards IR, et al. A Bayesian neural network method for adverse drug reaction signal generation. *Eur J Clin Pharmacol*. 1998;54(4):315–321. PMID 9696956.",
+        "pmid": "9696956",
+        "doi": null,
+        "author_seg": "Bate A, Lindquist M, Edwards IR, et al"
+      },
+      "pubmed": {
+        "title": "A Bayesian neural network method for adverse drug reaction signal generation.",
+        "journal": "European journal of clinical pharmacology",
+        "journal_iso": "Eur J Clin Pharmacol",
+        "volume": "54",
+        "issue": "4",
+        "pages": "315-21",
+        "pubdate": "1998 Jun",
+        "doi": "10.1007/s002280050466",
+        "authors": [
+          "Bate A",
+          "Lindquist M",
+          "Edwards IR",
+          "Olsson S",
+          "Orre R",
+          "Lansner A",
+          "De Freitas RM"
+        ]
+      }
+    },
+    {
+      "num": 16,
+      "status": "OK",
+      "issues": [],
+      "manuscript": {
+        "raw": "DuMouchel W. Bayesian data mining in large frequency tables, with an application to the FDA Spontaneous Reporting System. *Am Stat*. 1999;53(3):177–190. doi:10.1080/00031305.1999.10474456.",
+        "pmid": null,
+        "doi": "10.1080/00031305.1999.10474456",
+        "author_seg": "DuMouchel W"
+      },
+      "pubmed": null
+    },
+    {
+      "num": 17,
+      "status": "OK",
+      "issues": [],
+      "manuscript": {
+        "raw": "Cheng F, Desai RJ, Handy DE, Wang R, Schneeweiss S, Barabási AL, Loscalzo J. Network-based approach to prediction and population-based validation of in silico drug repurposing. *Nat Commun*. 2018;9:2691. PMID 30002366. doi:10.1038/s41467-018-05116-5.",
+        "pmid": "30002366",
+        "doi": "10.1038/s41467-018-05116-5",
+        "author_seg": "Cheng F, Desai RJ, Handy DE, Wang R, Schneeweiss S, Barabási AL, Loscalzo J"
+      },
+      "pubmed": {
+        "title": "Network-based approach to prediction and population-based validation of in silico drug repurposing.",
+        "journal": "Nature communications",
+        "journal_iso": "Nat Commun",
+        "volume": "9",
+        "issue": "1",
+        "pages": "2691",
+        "pubdate": "2018 Jul 12",
+        "doi": "10.1038/s41467-018-05116-5",
+        "authors": [
+          "Cheng F",
+          "Desai RJ",
+          "Handy DE",
+          "Wang R",
+          "Schneeweiss S",
+          "Barabási AL",
+          "Loscalzo J"
+        ]
+      }
+    },
+    {
+      "num": 18,
+      "status": "OK",
+      "issues": [],
+      "manuscript": {
+        "raw": "Lipsitch M, Tchetgen Tchetgen E, Cohen T. Negative controls: a tool for detecting confounding and bias in observational studies. *Epidemiology*. 2010;21(3):383–388. PMID 20335814. doi:10.1097/EDE.0b013e3181d61eeb.",
+        "pmid": "20335814",
+        "doi": "10.1097/EDE.0b013e3181d61eeb",
+        "author_seg": "Lipsitch M, Tchetgen Tchetgen E, Cohen T"
+      },
+      "pubmed": {
+        "title": "Negative controls: a tool for detecting confounding and bias in observational studies.",
+        "journal": "Epidemiology (Cambridge, Mass.)",
+        "journal_iso": "Epidemiology",
+        "volume": "21",
+        "issue": "3",
+        "pages": "383-8",
+        "pubdate": "2010 May",
+        "doi": "10.1097/EDE.0b013e3181d61eeb",
+        "authors": [
+          "Lipsitch M",
+          "Tchetgen Tchetgen E",
+          "Cohen T"
+        ]
+      }
+    },
+    {
+      "num": 19,
+      "status": "OK",
+      "issues": [],
+      "manuscript": {
+        "raw": "Arnold BF, Ercumen A, Benjamin-Chung J, Colford JM. Brief report: negative controls to detect selection bias and measurement bias in epidemiologic studies. *Epidemiology*. 2016;27(5):637–641. PMID 27182642. doi:10.1097/EDE.0000000000000504.",
+        "pmid": "27182642",
+        "doi": "10.1097/EDE.0000000000000504",
+        "author_seg": "Arnold BF, Ercumen A, Benjamin-Chung J, Colford JM"
+      },
+      "pubmed": {
+        "title": "Brief Report: Negative Controls to Detect Selection Bias and Measurement Bias in Epidemiologic Studies.",
+        "journal": "Epidemiology (Cambridge, Mass.)",
+        "journal_iso": "Epidemiology",
+        "volume": "27",
+        "issue": "5",
+        "pages": "637-41",
+        "pubdate": "2016 Sep",
+        "doi": "10.1097/EDE.0000000000000504",
+        "authors": [
+          "Arnold BF",
+          "Ercumen A",
+          "Benjamin-Chung J",
+          "Colford JM Jr"
+        ]
+      }
+    },
+    {
+      "num": 20,
+      "status": "OK",
+      "issues": [],
+      "manuscript": {
+        "raw": "Yang Q, et al. Advances in methodologies of negative controls: a scoping review. *J Clin Epidemiol*. 2024;166:111228. PMID 38040387. doi:10.1016/j.jclinepi.2023.111228.",
+        "pmid": "38040387",
+        "doi": "10.1016/j.jclinepi.2023.111228",
+        "author_seg": "Yang Q, et al"
+      },
+      "pubmed": {
+        "title": "Advances in methodologies of negative controls: a scoping review.",
+        "journal": "Journal of clinical epidemiology",
+        "journal_iso": "J Clin Epidemiol",
+        "volume": "166",
+        "issue": "",
+        "pages": "111228",
+        "pubdate": "2024 Feb",
+        "doi": "10.1016/j.jclinepi.2023.111228",
+        "authors": [
+          "Yang Q",
+          "Yang Z",
+          "Cai X",
+          "Zhao H",
+          "Jia J",
+          "Sun F"
+        ]
+      }
+    },
+    {
+      "num": 21,
+      "status": "OK",
+      "issues": [],
+      "manuscript": {
+        "raw": "Schuemie MJ, et al. Empirical confidence interval calibration for population-level effect estimation studies in observational healthcare data. *Proc Natl Acad Sci USA*. 2018;115(11):2571–2577. PMID 29531023. doi:10.1073/pnas.1708282114.",
+        "pmid": "29531023",
+        "doi": "10.1073/pnas.1708282114",
+        "author_seg": "Schuemie MJ, et al"
+      },
+      "pubmed": {
+        "title": "Empirical confidence interval calibration for population-level effect estimation studies in observational healthcare data.",
+        "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "journal_iso": "Proc Natl Acad Sci U S A",
+        "volume": "115",
+        "issue": "11",
+        "pages": "2571-2577",
+        "pubdate": "2018 Mar 13",
+        "doi": "10.1073/pnas.1708282114",
+        "authors": [
+          "Schuemie MJ",
+          "Hripcsak G",
+          "Ryan PB",
+          "Madigan D",
+          "Suchard MA"
+        ]
+      }
+    },
+    {
+      "num": 22,
+      "status": "OK",
+      "issues": [],
+      "manuscript": {
+        "raw": "Bu F, et al. Bayesian safety surveillance with adaptive bias correction. *Stat Med*. 2024;43(2):395–418. PMID 38010062. doi:10.1002/sim.9968.",
+        "pmid": "38010062",
+        "doi": "10.1002/sim.9968",
+        "author_seg": "Bu F, et al"
+      },
+      "pubmed": {
+        "title": "Bayesian safety surveillance with adaptive bias correction.",
+        "journal": "Statistics in medicine",
+        "journal_iso": "Stat Med",
+        "volume": "43",
+        "issue": "2",
+        "pages": "395-418",
+        "pubdate": "2024 Jan 30",
+        "doi": "10.1002/sim.9968",
+        "authors": [
+          "Bu F",
+          "Schuemie MJ",
+          "Nishimura A",
+          "Smith LH",
+          "Kostka K",
+          "Falconer T",
+          "McLeggon JA",
+          "Ryan PB",
+          "Hripcsak G",
+          "Suchard MA"
+        ]
+      }
+    },
+    {
+      "num": 23,
+      "status": "OK",
+      "issues": [],
+      "manuscript": {
+        "raw": "Kant A, et al. Numbers of spontaneous reports: how to use and interpret? *Br J Clin Pharmacol*. 2022;88(3):1365–1368. PMID 34355808. doi:10.1111/bcp.15024.",
+        "pmid": "34355808",
+        "doi": "10.1111/bcp.15024",
+        "author_seg": "Kant A, et al"
+      },
+      "pubmed": {
+        "title": "Numbers of spontaneous reports: How to use and interpret?",
+        "journal": "British journal of clinical pharmacology",
+        "journal_iso": "Br J Clin Pharmacol",
+        "volume": "88",
+        "issue": "3",
+        "pages": "1365-1368",
+        "pubdate": "2022 Mar",
+        "doi": "10.1111/bcp.15024",
+        "authors": [
+          "Kant A",
+          "van Hunsel F",
+          "van Puijenbroek E"
+        ]
+      }
+    },
+    {
+      "num": 24,
+      "status": "OK",
+      "issues": [],
+      "manuscript": {
+        "raw": "Arora A, et al. Relevance of the Weber effect in contemporary pharmacovigilance of oncology drugs. *Ther Clin Risk Manag*. 2017;13:1195–1203. PMID 28979130. doi:10.2147/TCRM.S137144.",
+        "pmid": "28979130",
+        "doi": "10.2147/TCRM.S137144",
+        "author_seg": "Arora A, et al"
+      },
+      "pubmed": {
+        "title": "Relevance of the Weber effect in contemporary pharmacovigilance of oncology drugs.",
+        "journal": "Therapeutics and clinical risk management",
+        "journal_iso": "Ther Clin Risk Manag",
+        "volume": "13",
+        "issue": "",
+        "pages": "1195-1203",
+        "pubdate": "2017",
+        "doi": "10.2147/TCRM.S137144",
+        "authors": [
+          "Arora A",
+          "Jalali RK",
+          "Vohora D"
+        ]
+      }
+    },
+    {
+      "num": 25,
+      "status": "OK",
+      "issues": [],
+      "manuscript": {
+        "raw": "Barabási AL, Gulbahce N, Loscalzo J. Network medicine: a network-based approach to human disease. *Nat Rev Genet*. 2011;12(1):56–68. PMID 21164525. doi:10.1038/nrg2918.",
+        "pmid": "21164525",
+        "doi": "10.1038/nrg2918",
+        "author_seg": "Barabási AL, Gulbahce N, Loscalzo J"
+      },
+      "pubmed": {
+        "title": "Network medicine: a network-based approach to human disease.",
+        "journal": "Nature reviews. Genetics",
+        "journal_iso": "Nat Rev Genet",
+        "volume": "12",
+        "issue": "1",
+        "pages": "56-68",
+        "pubdate": "2011 Jan",
+        "doi": "10.1038/nrg2918",
+        "authors": [
+          "Barabási AL",
+          "Gulbahce N",
+          "Loscalzo J"
+        ]
+      }
+    },
+    {
+      "num": 26,
+      "status": "OK",
+      "issues": [],
+      "manuscript": {
+        "raw": "Böhm R, Höber J, Kirch W, Broich K. OpenVigil FDA — inspection of U.S. American adverse drug events pharmacovigilance data and novel clinical applications. *PLoS One*. 2016;11(6):e0157753. PMID 27326858. doi:10.1371/journal.pone.0157753.",
+        "pmid": "27326858",
+        "doi": "10.1371/journal.pone.0157753",
+        "author_seg": "Böhm R, Höber J, Kirch W, Broich K"
+      },
+      "pubmed": {
+        "title": "OpenVigil FDA - Inspection of U.S. American Adverse Drug Events Pharmacovigilance Data and Novel Clinical Applications.",
+        "journal": "PloS one",
+        "journal_iso": "PLoS One",
+        "volume": "11",
+        "issue": "6",
+        "pages": "e0157753",
+        "pubdate": "2016",
+        "doi": "10.1371/journal.pone.0157753",
+        "authors": [
+          "Böhm R",
+          "von Hehn L",
+          "Herdegen T",
+          "Klein HJ",
+          "Bruhn O",
+          "Petri H",
+          "Höcker J"
+        ]
+      }
+    },
+    {
+      "num": 27,
+      "status": "OK",
+      "issues": [],
+      "manuscript": {
+        "raw": "Hou Y, et al. A comparison of disproportionality analysis methods in national adverse drug reaction databases. *Expert Opin Drug Saf*. 2014;13(7):853–857. PMID 24918197. doi:10.1517/14740338.2014.915938.",
+        "pmid": "24918197",
+        "doi": "10.1517/14740338.2014.915938",
+        "author_seg": "Hou Y, et al"
+      },
+      "pubmed": {
+        "title": "A comparison of disproportionality analysis methods in national adverse drug reaction databases of China.",
+        "journal": "Expert opinion on drug safety",
+        "journal_iso": "Expert Opin Drug Saf",
+        "volume": "13",
+        "issue": "7",
+        "pages": "853-7",
+        "pubdate": "2014 Jul",
+        "doi": "10.1517/14740338.2014.915938",
+        "authors": [
+          "Hou Y",
+          "Ye X",
+          "Wu G",
+          "Cheng G",
+          "Du X",
+          "He J"
+        ]
+      }
+    },
+    {
+      "num": 28,
+      "status": "OK",
+      "issues": [],
+      "manuscript": {
+        "raw": "Bate A, Lindquist M, Edwards IR, Orre R. A data mining approach for signal detection and analysis. *Drug Saf*. 2002;25(6):393–397. PMID 12071775. doi:10.2165/00002018-200225060-00002.",
+        "pmid": "12071775",
+        "doi": "10.2165/00002018-200225060-00002",
+        "author_seg": "Bate A, Lindquist M, Edwards IR, Orre R"
+      },
+      "pubmed": {
+        "title": "A data mining approach for signal detection and analysis.",
+        "journal": "Drug safety",
+        "journal_iso": "Drug Saf",
+        "volume": "25",
+        "issue": "6",
+        "pages": "393-7",
+        "pubdate": "2002",
+        "doi": "10.2165/00002018-200225060-00002",
+        "authors": [
+          "Bate A",
+          "Lindquist M",
+          "Edwards IR",
+          "Orre R"
+        ]
+      }
+    },
+    {
+      "num": 29,
+      "status": "OK",
+      "issues": [],
+      "manuscript": {
+        "raw": "Szklarczyk D, et al. The STRING database in 2023: protein–protein association networks and functional enrichment analyses for any sequenced genome of interest. *Nucleic Acids Res*. 2023;51(D1):D638–D646. PMID 36370105. doi:10.1093/nar/gkac1000.",
+        "pmid": "36370105",
+        "doi": "10.1093/nar/gkac1000",
+        "author_seg": "Szklarczyk D, et al"
+      },
+      "pubmed": {
+        "title": "The STRING database in 2023: protein-protein association networks and functional enrichment analyses for any sequenced genome of interest.",
+        "journal": "Nucleic acids research",
+        "journal_iso": "Nucleic Acids Res",
+        "volume": "51",
+        "issue": "D1",
+        "pages": "D638-D646",
+        "pubdate": "2023 Jan 6",
+        "doi": "10.1093/nar/gkac1000",
+        "authors": [
+          "Szklarczyk D",
+          "Kirsch R",
+          "Koutrouli M",
+          "Nastou K",
+          "Mehryary F",
+          "Hachilif R",
+          "Gable AL",
+          "Fang T",
+          "Doncheva NT",
+          "Pyysalo S",
+          "Bork P",
+          "Jensen LJ",
+          "von Mering C"
+        ]
+      }
+    },
+    {
+      "num": 30,
+      "status": "OK",
+      "issues": [],
+      "manuscript": {
+        "raw": "Zdrazil B, et al. The ChEMBL Database in 2023: a drug discovery platform spanning multiple bioactivity data types and time periods. *Nucleic Acids Res*. 2024;52(D1):D1180–D1192. PMID 37933841. doi:10.1093/nar/gkad1004.",
+        "pmid": "37933841",
+        "doi": "10.1093/nar/gkad1004",
+        "author_seg": "Zdrazil B, et al"
+      },
+      "pubmed": {
+        "title": "The ChEMBL Database in 2023: a drug discovery platform spanning multiple bioactivity data types and time periods.",
+        "journal": "Nucleic acids research",
+        "journal_iso": "Nucleic Acids Res",
+        "volume": "52",
+        "issue": "D1",
+        "pages": "D1180-D1192",
+        "pubdate": "2024 Jan 5",
+        "doi": "10.1093/nar/gkad1004",
+        "authors": [
+          "Zdrazil B",
+          "Felix E",
+          "Hunter F",
+          "Manners EJ",
+          "Blackshaw J",
+          "Corbett S",
+          "de Veij M",
+          "Ioannidis H",
+          "Lopez DM",
+          "Mosquera JF",
+          "Magarinos MP",
+          "Bosc N",
+          "Arcila R",
+          "Kizilören T",
+          "Gaulton A",
+          "Bento AP",
+          "Adasme MF",
+          "Monecke P",
+          "Landrum GA",
+          "Leach AR"
+        ]
+      }
+    },
+    {
+      "num": 31,
+      "status": "OK",
+      "issues": [],
+      "manuscript": {
+        "raw": "Ochoa D, et al. The next-generation Open Targets Platform: reimagined, redesigned, rebuilt. *Nucleic Acids Res*. 2023;51(D1):D1353–D1359. PMID 36399499. doi:10.1093/nar/gkac1046.",
+        "pmid": "36399499",
+        "doi": "10.1093/nar/gkac1046",
+        "author_seg": "Ochoa D, et al"
+      },
+      "pubmed": {
+        "title": "The next-generation Open Targets Platform: reimagined, redesigned, rebuilt.",
+        "journal": "Nucleic acids research",
+        "journal_iso": "Nucleic Acids Res",
+        "volume": "51",
+        "issue": "D1",
+        "pages": "D1353-D1359",
+        "pubdate": "2023 Jan 6",
+        "doi": "10.1093/nar/gkac1046",
+        "authors": [
+          "Ochoa D",
+          "Hercules A",
+          "Carmona M",
+          "Suveges D",
+          "Baker J",
+          "Malangone C",
+          "Lopez I",
+          "Miranda A",
+          "Cruz-Castillo C",
+          "Fumis L",
+          "Bernal-Llinares M",
+          "Tsukanov K",
+          "Cornu H",
+          "Tsirigos K",
+          "Razuvayevskaya O",
+          "Buniello A",
+          "Schwartzentruber J",
+          "Karim M",
+          "Ariano B",
+          "Martinez Osorio RE",
+          "Ferrer J",
+          "Ge X",
+          "Machlitt-Northen S",
+          "Gonzalez-Uriarte A",
+          "Saha S",
+          "Tirunagari S",
+          "Mehta C",
+          "Roldán-Romero JM",
+          "Horswell S",
+          "Young S",
+          "Ghoussaini M",
+          "Hulcoop DG",
+          "Dunham I",
+          "McDonagh EM"
+        ]
+      }
+    },
+    {
+      "num": 32,
+      "status": "OK",
+      "issues": [],
+      "manuscript": {
+        "raw": "Brand JS, et al. VigiBase: resource profile update with a summary of global patterns and trends in adverse event reports for medicines and vaccines. *Drug Saf*. 2026;49(6):613–629. PMID 41618069. doi:10.1007/s40264-025-01642-6.",
+        "pmid": "41618069",
+        "doi": "10.1007/s40264-025-01642-6",
+        "author_seg": "Brand JS, et al"
+      },
+      "pubmed": {
+        "title": "VigiBase: Resource Profile Update with a Summary of Global Patterns and Trends in Adverse Event Reports for Medicines and Vaccines.",
+        "journal": "Drug safety",
+        "journal_iso": "Drug Saf",
+        "volume": "49",
+        "issue": "6",
+        "pages": "613-629",
+        "pubdate": "2026 Jun",
+        "doi": "10.1007/s40264-025-01642-6",
+        "authors": [
+          "Brand JS",
+          "Gauffin O",
+          "Sartori D",
+          "Fusaroli M",
+          "Sköld H",
+          "Bergvall T",
+          "Sandberg L",
+          "Wallberg M",
+          "Hjelmström P",
+          "Norén GN"
+        ]
+      }
+    },
+    {
+      "num": 33,
+      "status": "OK",
+      "issues": [],
+      "manuscript": {
+        "raw": "Hernán MA, Hernández-Díaz S, Robins JM. A structural approach to selection bias. *Epidemiology*. 2004;15(5):615–625. PMID 15308962. doi:10.1097/01.ede.0000135174.63482.43.",
+        "pmid": "15308962",
+        "doi": "10.1097/01.ede.0000135174.63482.43",
+        "author_seg": "Hernán MA, Hernández-Díaz S, Robins JM"
+      },
+      "pubmed": {
+        "title": "A structural approach to selection bias.",
+        "journal": "Epidemiology (Cambridge, Mass.)",
+        "journal_iso": "Epidemiology",
+        "volume": "15",
+        "issue": "5",
+        "pages": "615-25",
+        "pubdate": "2004 Sep",
+        "doi": "10.1097/01.ede.0000135174.63482.43",
+        "authors": [
+          "Hernán MA",
+          "Hernández-Díaz S",
+          "Robins JM"
+        ]
+      }
+    }
+  ]
+}
